@@ -1,0 +1,476 @@
+Antibiotic,ar,age,infection,location,gender,pregnancy,immunestatus
+Clarithromycin,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Manurol,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Colistine,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Deptomycine,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Clarithromycin,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Manurol,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Colistine,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Deptomycine,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Azithromycine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Gentamycine,Non-Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Colistine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Clarithromycin,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Manurol,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Colistine,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Deptomycine,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Monobactums,Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Deptomycine,Non-Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Clarithromycin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Polymyxin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Azithromycine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,76587,Weak
+Gentamycine,Non-Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,76587,Weak
+Colistine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,76587,Weak
+Clarithromycin,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Manurol,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Colistine,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Deptomycine,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Monobactums,Resistance,34,Pyogenic meningitis,Kanchipuram,male,76587,Good
+Deptomycine,Non-Resistance,34,Pyogenic meningitis,Kanchipuram,male,76587,Good
+Clarithromycin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,76587,Weak
+Polymyxin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,76587,Weak
+Clarithromycin,Non-Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,76587,Good
+Cephdosporems,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,76587,Good
+Azithromycine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,76587,Good
+Colistine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,76587,Good
+Azithromycine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Gentamycine,Non-Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Colistine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Clarithromycin,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Manurol,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Colistine,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Deptomycine,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Monobactums,Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Deptomycine,Non-Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Clarithromycin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Polymyxin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Clarithromycin,Non-Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Cephdosporems,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Azithromycine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Colistine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Clarithromycin,Non-Resistance,20,Pyogenic meningitis,Kanchipuram,male,not applicable,Weak
+Cindamycine,Resistance,20,Pyogenic meningitis,Kanchipuram,male,not applicable,Weak
+Azithromycine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Gentamycine,Non-Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Colistine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Clarithromycin,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Manurol,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Colistine,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Deptomycine,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Monobactums,Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Deptomycine,Non-Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Clarithromycin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Polymyxin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Clarithromycin,Non-Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Cephdosporems,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Azithromycine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Colistine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Clarithromycin,Non-Resistance,20,Pyogenic meningitis,Kanchipuram,male,not applicable,Weak
+Cindamycine,Resistance,20,Pyogenic meningitis,Kanchipuram,male,not applicable,Weak
+Doxycylin,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Cindamycine,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Erythromycin,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Azithromycine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Gentamycine,Non-Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Colistine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Clarithromycin,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Manurol,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Colistine,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Deptomycine,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Monobactums,Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Deptomycine,Non-Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Clarithromycin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Polymyxin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Clarithromycin,Non-Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Cephdosporems,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Azithromycine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Colistine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Clarithromycin,Non-Resistance,20,Pyogenic meningitis,Kanchipuram,male,not applicable,Weak
+Cindamycine,Resistance,20,Pyogenic meningitis,Kanchipuram,male,not applicable,Weak
+Doxycylin,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Cindamycine,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Erythromycin,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Penicillins,Resistance,34,Pyogenic meningitis,Chennai,male,not applicable,Good
+Cindamycine,Non-Resistance,34,Pyogenic meningitis,Chennai,male,not applicable,Good
+Azithromycine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Gentamycine,Non-Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Colistine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Clarithromycin,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Manurol,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Colistine,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Deptomycine,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Monobactums,Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Deptomycine,Non-Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Clarithromycin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Polymyxin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Clarithromycin,Non-Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Cephdosporems,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Azithromycine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Colistine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Clarithromycin,Non-Resistance,20,Pyogenic meningitis,Kanchipuram,male,not applicable,Weak
+Cindamycine,Resistance,20,Pyogenic meningitis,Kanchipuram,male,not applicable,Weak
+Doxycylin,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Cindamycine,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Erythromycin,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Penicillins,Resistance,34,Pyogenic meningitis,Chennai,male,not applicable,Good
+Cindamycine,Non-Resistance,34,Pyogenic meningitis,Chennai,male,not applicable,Good
+Clarithromycin,Resistance,39,Abdominal infection/Peritonitis,Ghaziabad,male,not applicable,Weak
+Streptamycine,Non-Resistance,39,Abdominal infection/Peritonitis,Ghaziabad,male,not applicable,Weak
+Azithromycine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Gentamycine,Non-Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Colistine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Clarithromycin,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Manurol,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Colistine,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Deptomycine,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Monobactums,Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Deptomycine,Non-Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Clarithromycin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Polymyxin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Clarithromycin,Non-Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Cephdosporems,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Azithromycine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Colistine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Clarithromycin,Non-Resistance,20,Pyogenic meningitis,Kanchipuram,male,not applicable,Weak
+Cindamycine,Resistance,20,Pyogenic meningitis,Kanchipuram,male,not applicable,Weak
+Doxycylin,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Cindamycine,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Erythromycin,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Penicillins,Resistance,34,Pyogenic meningitis,Chennai,male,not applicable,Good
+Cindamycine,Non-Resistance,34,Pyogenic meningitis,Chennai,male,not applicable,Good
+Clarithromycin,Resistance,39,Abdominal infection/Peritonitis,Ghaziabad,male,not applicable,Weak
+Streptamycine,Non-Resistance,39,Abdominal infection/Peritonitis,Ghaziabad,male,not applicable,Weak
+Doxycylin,Non-Resistance,28,Bones and Joints Sepsis,Jaipur,male,not applicable,Good
+Streptamycine,Non-Resistance,28,Bones and Joints Sepsis,Jaipur,male,not applicable,Good
+Azithromycine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Gentamycine,Non-Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Colistine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Clarithromycin,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Manurol,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Colistine,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Deptomycine,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Monobactums,Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Deptomycine,Non-Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Clarithromycin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Polymyxin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Clarithromycin,Non-Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Cephdosporems,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Azithromycine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Colistine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Clarithromycin,Non-Resistance,20,Pyogenic meningitis,Kanchipuram,male,not applicable,Weak
+Cindamycine,Resistance,20,Pyogenic meningitis,Kanchipuram,male,not applicable,Weak
+Doxycylin,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Cindamycine,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Erythromycin,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Penicillins,Resistance,34,Pyogenic meningitis,Chennai,male,not applicable,Good
+Cindamycine,Non-Resistance,34,Pyogenic meningitis,Chennai,male,not applicable,Good
+Clarithromycin,Resistance,39,Abdominal infection/Peritonitis,Ghaziabad,male,not applicable,Weak
+Streptamycine,Non-Resistance,39,Abdominal infection/Peritonitis,Ghaziabad,male,not applicable,Weak
+Doxycylin,Non-Resistance,28,Bones and Joints Sepsis,Jaipur,male,not applicable,Good
+Streptamycine,Non-Resistance,28,Bones and Joints Sepsis,Jaipur,male,not applicable,Good
+Monobactums,Non-Resistance,46,Soft Tissue Infection,Meerut,male,not applicable,Weak
+Colistine,Resistance,46,Soft Tissue Infection,Meerut,male,not applicable,Weak
+Azithromycine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Gentamycine,Non-Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Colistine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Clarithromycin,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Manurol,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Colistine,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Deptomycine,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Monobactums,Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Deptomycine,Non-Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Clarithromycin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Polymyxin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Clarithromycin,Non-Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Cephdosporems,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Azithromycine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Colistine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Clarithromycin,Non-Resistance,20,Pyogenic meningitis,Kanchipuram,male,not applicable,Weak
+Cindamycine,Resistance,20,Pyogenic meningitis,Kanchipuram,male,not applicable,Weak
+Doxycylin,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Cindamycine,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Erythromycin,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Penicillins,Resistance,34,Pyogenic meningitis,Chennai,male,not applicable,Good
+Cindamycine,Non-Resistance,34,Pyogenic meningitis,Chennai,male,not applicable,Good
+Clarithromycin,Resistance,39,Abdominal infection/Peritonitis,Ghaziabad,male,not applicable,Weak
+Streptamycine,Non-Resistance,39,Abdominal infection/Peritonitis,Ghaziabad,male,not applicable,Weak
+Doxycylin,Non-Resistance,28,Bones and Joints Sepsis,Jaipur,male,not applicable,Good
+Streptamycine,Non-Resistance,28,Bones and Joints Sepsis,Jaipur,male,not applicable,Good
+Monobactums,Non-Resistance,46,Soft Tissue Infection,Meerut,male,not applicable,Weak
+Colistine,Resistance,46,Soft Tissue Infection,Meerut,male,not applicable,Weak
+Cephdosporems,Non-Resistance,30,Upper/Lower Respiratory Tract Infection,Bhopal,female,Not pregnant,Weak
+Clarithromycin,Non-Resistance,30,Upper/Lower Respiratory Tract Infection,Bhopal,female,Not pregnant,Weak
+Azithromycine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Gentamycine,Non-Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Colistine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Clarithromycin,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Manurol,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Colistine,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Deptomycine,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Monobactums,Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Deptomycine,Non-Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Clarithromycin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Polymyxin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Clarithromycin,Non-Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Cephdosporems,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Azithromycine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Colistine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Clarithromycin,Non-Resistance,20,Pyogenic meningitis,Kanchipuram,male,not applicable,Weak
+Cindamycine,Resistance,20,Pyogenic meningitis,Kanchipuram,male,not applicable,Weak
+Doxycylin,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Cindamycine,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Erythromycin,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Penicillins,Resistance,34,Pyogenic meningitis,Chennai,male,not applicable,Good
+Cindamycine,Non-Resistance,34,Pyogenic meningitis,Chennai,male,not applicable,Good
+Clarithromycin,Resistance,39,Abdominal infection/Peritonitis,Ghaziabad,male,not applicable,Weak
+Streptamycine,Non-Resistance,39,Abdominal infection/Peritonitis,Ghaziabad,male,not applicable,Weak
+Doxycylin,Non-Resistance,28,Bones and Joints Sepsis,Jaipur,male,not applicable,Good
+Streptamycine,Non-Resistance,28,Bones and Joints Sepsis,Jaipur,male,not applicable,Good
+Monobactums,Non-Resistance,46,Soft Tissue Infection,Meerut,male,not applicable,Weak
+Colistine,Resistance,46,Soft Tissue Infection,Meerut,male,not applicable,Weak
+Cephdosporems,Non-Resistance,30,Upper/Lower Respiratory Tract Infection,Bhopal,female,Not pregnant,Weak
+Clarithromycin,Non-Resistance,30,Upper/Lower Respiratory Tract Infection,Bhopal,female,Not pregnant,Weak
+Clarithromycin,Non-Resistance,25,Abdominal infection/Peritonitis,Pune,male,not applicable,Good
+Polymyxin,Resistance,25,Abdominal infection/Peritonitis,Pune,male,not applicable,Good
+Streptamycine,Non-Resistance,25,Abdominal infection/Peritonitis,Pune,male,not applicable,Good
+Azithromycine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Gentamycine,Non-Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Colistine,Resistance,70,Upper/Lower Respiratory Tract Infection,Guna,male,not applicable,Weak
+Clarithromycin,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Manurol,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Colistine,Non-Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Deptomycine,Resistance,70,Urinary Tract infection,Jaipur,female,Not pregnant,Weak
+Monobactums,Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Deptomycine,Non-Resistance,34,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Clarithromycin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Polymyxin,Resistance,20,Abdominal infection/Peritonitis,Bhopal,male,not applicable,Weak
+Clarithromycin,Non-Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Cephdosporems,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Azithromycine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Colistine,Resistance,45,Upper/Lower Respiratory Tract Infection,Kharagpur,male,not applicable,Good
+Clarithromycin,Non-Resistance,20,Pyogenic meningitis,Kanchipuram,male,not applicable,Weak
+Cindamycine,Resistance,20,Pyogenic meningitis,Kanchipuram,male,not applicable,Weak
+Doxycylin,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Cindamycine,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Erythromycin,Resistance,18,Soft Tissue Infection,Guna,male,not applicable,Good
+Penicillins,Resistance,34,Pyogenic meningitis,Chennai,male,not applicable,Good
+Cindamycine,Non-Resistance,34,Pyogenic meningitis,Chennai,male,not applicable,Good
+Clarithromycin,Resistance,39,Abdominal infection/Peritonitis,Ghaziabad,male,not applicable,Weak
+Streptamycine,Non-Resistance,39,Abdominal infection/Peritonitis,Ghaziabad,male,not applicable,Weak
+Doxycylin,Non-Resistance,28,Bones and Joints Sepsis,Jaipur,male,not applicable,Good
+Streptamycine,Non-Resistance,28,Bones and Joints Sepsis,Jaipur,male,not applicable,Good
+Monobactums,Non-Resistance,46,Soft Tissue Infection,Meerut,male,not applicable,Weak
+Colistine,Resistance,46,Soft Tissue Infection,Meerut,male,not applicable,Weak
+Cephdosporems,Non-Resistance,30,Upper/Lower Respiratory Tract Infection,Bhopal,female,Not pregnant,Weak
+Clarithromycin,Non-Resistance,30,Upper/Lower Respiratory Tract Infection,Bhopal,female,Not pregnant,Weak
+Clarithromycin,Non-Resistance,25,Abdominal infection/Peritonitis,Pune,male,not applicable,Good
+Polymyxin,Resistance,25,Abdominal infection/Peritonitis,Pune,male,not applicable,Good
+Streptamycine,Non-Resistance,25,Abdominal infection/Peritonitis,Pune,male,not applicable,Good
+Cephdosporems,Non-Resistance,25,Pyogenic meningitis,Pune,male,not applicable,Weak
+Colistine,Resistance,25,Pyogenic meningitis,Pune,male,not applicable,Weak
+Ninocycline,Resistance,25,Pyogenic meningitis,Pune,male,not applicable,Weak
+Clarithromycin,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Azithromycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Streptamycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Clarithromycin,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Colistine,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Doxycycline,Non-Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Polymyxin,Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Clarithromycin,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Azithromycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Streptamycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Clarithromycin,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Colistine,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Doxycycline,Non-Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Polymyxin,Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Penicillin,Resistance,34,Abdominal infection/Peritonitis,Mumbai,male,not applicable,Good
+Monurol,Non-Resistance,34,Abdominal infection/Peritonitis,Mumbai,male,not applicable,Good
+Clarithromycin,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Azithromycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Streptamycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Clarithromycin,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Colistine,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Doxycycline,Non-Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Polymyxin,Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Penicillin,Resistance,34,Abdominal infection/Peritonitis,Mumbai,male,not applicable,Good
+Monurol,Non-Resistance,34,Abdominal infection/Peritonitis,Mumbai,male,not applicable,Good
+Azithromycin,Non-Resistance,40,Soft Tissue Infection,Jaisalmer,male,not applicable,Weak
+Deptomycin,Non-Resistance,40,Soft Tissue Infection,Jaisalmer,male,not applicable,Weak
+Clarithromycin,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Azithromycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Streptamycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Clarithromycin,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Colistine,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Doxycycline,Non-Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Polymyxin,Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Penicillin,Resistance,34,Abdominal infection/Peritonitis,Mumbai,male,not applicable,Good
+Monurol,Non-Resistance,34,Abdominal infection/Peritonitis,Mumbai,male,not applicable,Good
+Azithromycin,Non-Resistance,40,Soft Tissue Infection,Jaisalmer,male,not applicable,Weak
+Deptomycin,Non-Resistance,40,Soft Tissue Infection,Jaisalmer,male,not applicable,Weak
+Penicillin,Non-Resistance,20,Soft Tissue Infection,Bhopal,male,not applicable,Weak
+Colistin,Resistance,20,Soft Tissue Infection,Bhopal,male,not applicable,Weak
+Clarithromycin,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Azithromycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Streptamycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Clarithromycin,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Colistine,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Doxycycline,Non-Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Polymyxin,Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Penicillin,Resistance,34,Abdominal infection/Peritonitis,Mumbai,male,not applicable,Good
+Monurol,Non-Resistance,34,Abdominal infection/Peritonitis,Mumbai,male,not applicable,Good
+Penicillin,Non-Resistance,20,Bones and Joints Sepsis,Mumbai,male,not applicable,Good
+Vancomycin,Non-Resistance,20,Bones and Joints Sepsis,Mumbai,male,not applicable,Good
+Clarithromycin,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Azithromycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Streptamycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Clarithromycin,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Colistine,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Doxycycline,Non-Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Polymyxin,Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Penicillin,Resistance,34,Abdominal infection/Peritonitis,Mumbai,male,not applicable,Good
+Monurol,Non-Resistance,34,Abdominal infection/Peritonitis,Mumbai,male,not applicable,Good
+Penicillin,Non-Resistance,20,Bones and Joints Sepsis,Mumbai,male,not applicable,Good
+Vancomycin,Non-Resistance,20,Bones and Joints Sepsis,Mumbai,male,not applicable,Good
+Azithromycin,Non-Resistance,20,Urinary Tract infection,Nagpur,male,not applicable,Weak
+Deptomycin,Resistance,20,Urinary Tract infection,Nagpur,male,not applicable,Weak
+Clarithromycin,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Azithromycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Streptamycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Clarithromycin,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Colistine,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Doxycycline,Non-Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Polymyxin,Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Penicillin,Resistance,34,Abdominal infection/Peritonitis,Mumbai,male,not applicable,Good
+Monurol,Non-Resistance,34,Abdominal infection/Peritonitis,Mumbai,male,not applicable,Good
+Penicillin,Non-Resistance,20,Bones and Joints Sepsis,Mumbai,male,not applicable,Good
+Vancomycin,Non-Resistance,20,Bones and Joints Sepsis,Mumbai,male,not applicable,Good
+Azithromycin,Non-Resistance,20,Urinary Tract infection,Nagpur,male,not applicable,Weak
+Deptomycin,Resistance,20,Urinary Tract infection,Nagpur,male,not applicable,Weak
+Penicillin,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Good
+Streptomycin,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Good
+Streptomycin,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Good
+Deptomycin,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Good
+Clarithromycin,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Azithromycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Streptamycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Clarithromycin,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Colistine,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Doxycycline,Non-Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Polymyxin,Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Penicillin,Resistance,34,Abdominal infection/Peritonitis,Mumbai,male,not applicable,Good
+Monurol,Non-Resistance,34,Abdominal infection/Peritonitis,Mumbai,male,not applicable,Good
+Penicillin,Non-Resistance,20,Bones and Joints Sepsis,Mumbai,male,not applicable,Good
+Vancomycin,Non-Resistance,20,Bones and Joints Sepsis,Mumbai,male,not applicable,Good
+Azithromycin,Non-Resistance,20,Urinary Tract infection,Nagpur,male,not applicable,Weak
+Deptomycin,Resistance,20,Urinary Tract infection,Nagpur,male,not applicable,Weak
+Penicillin,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Good
+Streptomycin,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Good
+Streptomycin,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Good
+Deptomycin,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Good
+Penicillin,Non-Resistance,45,Urinary Tract infection,Nagpur,male,not applicable,Weak
+Carbapenem,Resistance,45,Urinary Tract infection,Nagpur,male,not applicable,Weak
+Clarithromycin,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Azithromycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Streptamycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Clarithromycin,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Colistine,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Doxycycline,Non-Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Polymyxin,Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Penicillin,Resistance,34,Abdominal infection/Peritonitis,Mumbai,male,not applicable,Good
+Monurol,Non-Resistance,34,Abdominal infection/Peritonitis,Mumbai,male,not applicable,Good
+Penicillin,Non-Resistance,20,Bones and Joints Sepsis,Mumbai,male,not applicable,Good
+Vancomycin,Non-Resistance,20,Bones and Joints Sepsis,Mumbai,male,not applicable,Good
+Azithromycin,Non-Resistance,20,Urinary Tract infection,Nagpur,male,not applicable,Weak
+Deptomycin,Resistance,20,Urinary Tract infection,Nagpur,male,not applicable,Weak
+Penicillin,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Good
+Streptomycin,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Good
+Streptomycin,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Good
+Deptomycin,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Good
+Penicillin,Non-Resistance,45,Urinary Tract infection,Nagpur,male,not applicable,Weak
+Carbapenem,Resistance,45,Urinary Tract infection,Nagpur,male,not applicable,Weak
+Monobactam,Resistance,34,Soft Tissue Infection,Mainpuri,male,not applicable,Good
+Streptomycin,Non-Resistance,34,Soft Tissue Infection,Mainpuri,male,not applicable,Good
+Clarithromycin,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Colistine,Non-Resistance,12,Urinary Tract infection,Lucknow,male,not applicable,Weak
+Azithromycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Deptomycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Streptamycine,Non-Resistance,12,Urinary Tract infection,Pune,male,not applicable,Weak
+Clarithromycin,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Colistine,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Deptomycine,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Weak
+Doxycycline,Non-Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Polymyxin,Resistance,45,Pyogenic meningitis,Kanchipuram,male,not applicable,Good
+Penicillin,Resistance,34,Abdominal infection/Peritonitis,Mumbai,male,not applicable,Good
+Monurol,Non-Resistance,34,Abdominal infection/Peritonitis,Mumbai,male,not applicable,Good
+Penicillin,Non-Resistance,20,Bones and Joints Sepsis,Mumbai,male,not applicable,Good
+Vancomycin,Non-Resistance,20,Bones and Joints Sepsis,Mumbai,male,not applicable,Good
+Azithromycin,Non-Resistance,20,Urinary Tract infection,Nagpur,male,not applicable,Weak
+Deptomycin,Resistance,20,Urinary Tract infection,Nagpur,male,not applicable,Weak
+Penicillin,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Good
+Streptomycin,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Good
+Streptomycin,Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Good
+Deptomycin,Non-Resistance,12,Soft Tissue Infection,Pune,male,not applicable,Good
+Penicillin,Non-Resistance,45,Urinary Tract infection,Nagpur,male,not applicable,Weak
+Carbapenem,Resistance,45,Urinary Tract infection,Nagpur,male,not applicable,Weak
+Monobactam,Resistance,34,Soft Tissue Infection,Mainpuri,male,not applicable,Good
+Streptomycin,Non-Resistance,34,Soft Tissue Infection,Mainpuri,male,not applicable,Good
+Penicillin,Resistance,34,Urinary Tract infection,Mumbai,male,not applicable,Good
+Minocycline,Resistance,34,Urinary Tract infection,Mumbai,male,not applicable,Good
+Gentamicin,Non-Resistance,34,Urinary Tract infection,Mumbai,male,not applicable,Good

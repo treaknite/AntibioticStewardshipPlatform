@@ -1,0 +1,218 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"> -->
+
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" type="text/css" href="css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/layout.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css?family=Averia+Serif+Libre|Bubblegum+Sans|Caveat+Brush|Chewy|Lobster+Two');
+
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+* ===== NAVIGATION ======*/
+.navbar {
+    border: 1px solid black;
+    z-index: 9999;
+    letter-spacing: 4px;
+}
+.logo {
+    display: block;
+    height: auto;
+    width: 52px;
+    padding-top: 5px;
+    margin-right:15px;
+}
+
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px; /* firefox bug fix */
+  width: auto;
+}
+.navbar .nav > li > a {
+  line-height: 50px;
+}
+
+.navbar-header h1 {
+    letter-spacing: 1px;
+    color: black !important;
+    font-family: 'Lobster Two', cursive;
+}
+
+.navbar li a, .navbar {
+    color: black !important;
+    font-size: 17px;
+    transition: all 0.6s 0s;
+}
+
+.navbar-toggle {
+    background-color:black;
+    border: 0;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: blue !important;
+}
+ img{
+      height:auto;
+      position: center;
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:500px;
+  margin-top:120px;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  height: 60px;
+
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.table{
+  margin-top: 50px;
+}
+table#t01 tr:nth-child(even) {
+  background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+ background-color: #fff;
+}
+table#t01 th {
+  background-color: black;
+  color: white;
+  height: 60px;
+}
+
+    </style>
+
+  </head>
+  <body>
+
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse"
+                    data-target="#myNavbar">
+                <span class="glyphicon glyphicon-menu-hamburger"></span>
+            </button>
+           
+          
+         <div class="navbar-left logo"> 
+       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+   viewBox="0 0 291 385.3" style="enable-background:new 0 0 291 385.3;" xml:space="preserve">
+<style type="text/css">
+  .st0{fill:#000;}
+</style>
+<polygon class="st0" points="82.1,12 7.4,138.7 38.7,237.3 "/>
+<polygon class="st0" points="92.7,5.3 199.4,8.7 223.4,82.7 "/>
+<polygon class="st0" points="89.4,8.7 223.4,86.7 42.1,237.3 "/>
+<polygon class="st0" points="206.1,15.3 262.7,66 228.1,82.7 "/>
+<polygon class="st0" points="262.7,70 228.1,86 266.4,175.3 "/>
+<polygon class="st0" points="228.1,92.7 262.7,179.3 173.4,328 "/>
+<polygon class="st0" points="223.4,92.7 44.7,240 167.7,336 "/>
+<polygon class="st0" points="252.1,210.3 184.4,380.3 170.7,339.7 "/>
+<polygon class="st0" points="60.1,260.3 167.4,341 180.4,380.3 "/>
+</svg>
+          </div>
+    <h1 class="brand brand-name navbar-left"><div class="navbar-left">Pharma Future</h1>
+        </div>
+        <div class="collapse navbar-collapse navbar-right" id="myNavbar">
+            <ul class="nav navbar-nav">
+                <li><a href="main">Home</a></li>
+                <li><a href="search">Search Record</a></li>
+                <li><a href="login">Log Out</a></li>
+
+            </ul>
+        </div>
+    </div>
+</nav>
+
+</head>
+<body>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<table border="2">
+      <thead>
+        <tr>
+          <th scope="col">Patient Id</th>
+          <th scope="col">FirstAntibiotic</th>
+          <th scope="col">Resistance</th>
+          <th scope="col">Second Antibiotic</th> 
+          <th scope="col">Resistance</th>
+          <th scope="col">Third Antibiotic</th>
+          <th scope="col">Resistance</th>
+          <th scope="col">Fourth Antibiotic</th> 
+          <th scope="col">Resistance</th>
+          <th scope="col">City</th>
+          <th scope="col">State</th>
+          <th scope="col">Age</th>
+          <th scope="col">Gender</th>
+          <th scope="col">Pregnancy</th>
+          <th scope="col">Immune Status</th>
+        </tr>
+      </thead>
+      <tbody>
+      {% for rec in pastrecord %}
+        <tr>
+ 
+          <th scope="row">{{rec.PatientId}}</th>
+
+          <td>{{rec.FirstAntibiotic}}</td>
+          <td>{{rec.ar_1}}</td>
+          <td>{{rec.SecondAntibiotic}}</td>
+          <td>{{rec.ar_2}}</td>
+          <td>{{rec.ThirdAntibiotic}}</td>
+          <td>{{rec.ar_3}}</td>
+          <td>{{rec.FourthAntibiotic}}</td>
+          <td>{{rec.ar_4}}</td>
+          <td>{{rec.city}}</td>
+          <td>{{rec.state}}</td>
+          <td>{{rec.age}}</td>
+          <td>{{rec.gender}}</td>
+          <td>{{rec.pregnancy}}</td>
+          <td>{{rec.immunestatus}}</td>
+          
+        </tr>
+      {% endfor %}
+      
+
+      </tbody>
+</table>
+</body>
+</html>

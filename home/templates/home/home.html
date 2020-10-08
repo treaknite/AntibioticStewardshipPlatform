@@ -1,0 +1,422 @@
+
+
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title> Home page</title>
+    <meta name="description" content="Oishii - Fine Japanese Cuisine ">
+    
+    {% load static %}
+
+ <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/layout.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    
+
+<!--  Added new link -->
+<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://kit.fontawesome.com/yourcode.js"></script>
+
+  <link href="https://fonts.googleapis.com/css?family=Bree+Serif&display=swap" rel="stylesheet">
+
+  
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css?family=Averia+Serif+Libre|Bubblegum+Sans|Caveat+Brush|Chewy|Lobster+Two');
+
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+* ===== NAVIGATION ======*/
+.navbar {
+    border: 1px solid black;
+    z-index: 9999;
+    letter-spacing: 4px;
+}
+.logo {
+    display: block;
+    height: auto;
+    width: 52px;
+    padding-top: 5px;
+    margin-right:15px;
+}
+
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px; /* firefox bug fix */
+  width: auto;
+}
+.navbar .nav > li > a {
+  line-height: 50px;
+}
+
+.navbar-header h1 {
+    letter-spacing: 1px;
+    color: black !important;
+    font-family: 'Lobster Two', cursive;
+}
+
+.navbar li a, .navbar {
+    color: black !important;
+    font-size: 17px;
+    transition: all 0.6s 0s;
+}
+
+.navbar-toggle {
+    background-color:black;
+    border: 0;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: blue !important;
+}
+.item{
+      height: 80vh;
+      min-height: 200px;
+      background:no-repeat center center scroll;
+      -webkit-background-size:cover;
+      background-size:cover;
+    }
+
+    h2{
+      text-align: center;
+      font-family:"Times new roman",times,Serif;
+      margin-top:50px;
+    }
+    #heading{
+      margin-left: 10px;
+      font-weight:40%;
+    }
+    #para{
+      font-size: 20px;
+      margin-right: 5px;
+      margin-left:10px;
+      line-height:1.5em;
+    }
+    #heading1{
+       margin-left: 10px;
+     
+      font-weight:40%;
+      text-transform: uppercase;
+
+    }
+    #footer{
+      text-align:center;
+      font-size:20px;
+      font-weight: 20%;
+      margin-top:40px;
+    }
+    #divider{
+      margin-top:100px;
+    }
+<--FOOTER--!>
+
+
+a{
+  text-decoration: none;
+  outline: none;
+}
+.footer-main-div{
+  width:100%;
+  height: auto;
+  margin:auto;
+  background: #272727;
+  padding:20px 0px;
+}
+ .footer-social-icons{
+   width:100%;
+   height:auto;
+   margin:auto;
+ }
+ .footer-social-icons ul{
+  margin:0px;
+  padding:0px;
+  text-align: center;
+ }
+ .footer-social-icons ul li{
+  display: inline-block;
+  width: 70px
+  height:70px;
+  margin:0px 20px;
+  border-radius: 100%;
+  background:#32CD32;
+ }
+ .footer-social-icons ul li a{
+  color:#272727;
+   font-size:25px;
+ }
+  .footer-social-icons ul li a i{
+  line-height: 35px;
+  size:100px;
+  width:35px;
+ }
+ .footer-menu-one{
+  width:100%;
+  height:auto;
+  margin:auto;
+  margin-top: 20px;
+ }
+ .footer-menu-one ul{
+  margin:0px;
+  padding:0px;
+  text-align: center;
+ }
+ .footer-menu-one ul li{
+   display: inline-block;
+   margin:0px 10px;
+ }
+ .footer-menu-one ul li a{
+   font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  font-weight: 600;
+  color:#fff;
+  text-transform: uppercase;
+  text-decoration: none;
+ }
+
+ .footer-bottom{
+  width:100%;
+  height:auto;
+  margin:auto;
+  background:#32CD32;
+  padding:10px; 
+ }
+
+ .footer-bottom{
+  font-family: arial;
+  font-size: 15px;
+  text-align: center;
+ }
+#head{
+  margin-bottom:35px;
+}
+#team{
+  float:right;
+  font-family:'Bree Serif', serif;
+  font-size:22px; 
+}
+#margin{
+  margin-left:170px;
+}
+
+ 
+    </style>
+
+  </head>
+  <body>
+
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse"
+                    data-target="#myNavbar">
+                <span class="glyphicon glyphicon-menu-hamburger"></span>
+            </button>
+           
+          
+         <div class="navbar-left logo"> 
+       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+   viewBox="0 0 291 385.3" style="enable-background:new 0 0 291 385.3;" xml:space="preserve">
+<style type="text/css">
+  .st0{fill:#000;}
+</style>
+<polygon class="st0" points="82.1,12 7.4,138.7 38.7,237.3 "/>
+<polygon class="st0" points="92.7,5.3 199.4,8.7 223.4,82.7 "/>
+<polygon class="st0" points="89.4,8.7 223.4,86.7 42.1,237.3 "/>
+<polygon class="st0" points="206.1,15.3 262.7,66 228.1,82.7 "/>
+<polygon class="st0" points="262.7,70 228.1,86 266.4,175.3 "/>
+<polygon class="st0" points="228.1,92.7 262.7,179.3 173.4,328 "/>
+<polygon class="st0" points="223.4,92.7 44.7,240 167.7,336 "/>
+<polygon class="st0" points="252.1,210.3 184.4,380.3 170.7,339.7 "/>
+<polygon class="st0" points="60.1,260.3 167.4,341 180.4,380.3 "/>
+</svg>
+          </div>
+    <h1 class="brand brand-name navbar-left"> 
+      <div class="navbar-left">Pharma Future
+      </h1>
+        </div>
+        <div class="collapse navbar-collapse navbar-right" id="myNavbar">
+            <ul class="nav navbar-nav">
+                <li><a href="#" active="active"><b>Home</b></a></li>
+          
+          <li><a href="login">Log In</a></li>
+           
+            </ul>
+        </div>
+    </div>
+</div>
+</nav>
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+   <div class="carousel-inner">
+
+      <div class="item active">
+        <img src='{% static "pic/img2.jfif" %}' alt="My image" style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src='{% static "pic/img3.jfif" %}' alt="My image" style="width:100%;"
+>
+      </div>
+    
+      <div class="item">
+        <img src='{% static "pic/img1.jfif" %}' alt="My image" style="width:100%;">
+      </div>
+  
+    </div>
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+  <div>
+    
+  </div>
+
+  <section>
+  <h2><strong><ins>About Antibiotic Resistance</ins></strong></h2>
+</section>
+
+
+<div id="divider">
+  <h3 id="heading"><b>WHAT IS AN ANTIBIOTIC ?</b></h3>
+  <p id="para">Antibiotics, also known as <mark>antimicrobial</mark> drugs, are drugs that fight infections caused by bacteria. Alexander Fleming discovered the first antibiotic,<mark> penicillin</mark>, in 1927. After the first use of antibiotics in the 1940s, they transformed medical care and dramatically reduced illness and death from infectious diseases.</p>
+<p id="para">The term "antibiotic"originally referred to a natural compound produced by a <mark>fungus</mark> or another microorganism that kills bacteria which cause disease in humans or animals. Some antibiotics may be synthetic compounds (not produced by microorganisms) that can also kill or inhibit the growth of microbes. Technically, the term <mark>"antimicrobial agent"</mark> refers to both natural and synthetic compounds; however, many people use the word "antibiotic" to refer to both. Although antibiotics have many beneficial effects, their use has contributed to the problem of antibiotic resistance.</p>
+
+<h3 id="heading1"><b>WHAT IS ANTIBIOTIC RESISTANCE ?</b></h3>
+<p id="para">Antibiotic resistance is the ability of bacteria or other microbes to resist the effects of an antibiotic. Antibiotic resistance occurs when bacteria change in some way that reduces or eliminates the effectiveness of drugs, chemicals, or other agents designed to cure or prevent infections. The bacteria survive and continue to multiply causing more harm.</p>
+
+<h3 id="heading1"><b>Why should I be concerned about antibiotic resistance?</b></h3>
+<p id="para">Antibiotic resistance has been called one of the world's most pressing public health problems. Almost every type of bacteria has become stronger and less responsive to antibiotic treatment when it is really needed. These antibiotic-resistant bacteria can quickly spread to family members, schoolmates, and co-workers - threatening the community with a new strain of infectious disease that is more difficult to cure and more expensive to treat. For this reason, antibiotic resistance is among CDC's top concerns.</p>
+<p id="para">Antibiotic resistance can cause significant danger and suffering for children and adults who have common infections, once easily treatable with antibiotics. Microbes can develop resistance to specific medicines. A common misconception is that a person's body becomes resistant to specific drugs. However, it is microbes, not people, that become resistant to the drugs.</p>
+
+</div>
+
+<div class="container">
+ <h2 id="head"><b><ins>Image Gallery</ins></b></h2>
+  
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <!-- <a href="/w3images/lights.jpg" target="_blank"> -->
+          <img src='{% static "pic/img6.jfif" %}' alt="Lights" style="width:100%;height:240px; max-width:100%;">
+          <div class="caption">
+            <p></p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <!-- <a href="/w3images/nature.jpg" target="_blank">
+        -->   <img src='{% static "pic/img1.jfif" %}' alt="Nature" style="width:100%; height:240px; max-width:100%;">
+          <div class="caption">
+            <p></p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+       <!--  <a href="/w3images/fjords.jpg" target="_blank"> -->
+          <img src='{% static "pic/img2.jfif" %}' alt="Fjords" style="width:100%; height:240px; max-width:100%;">
+          <div class="caption">
+            <p></p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<br>
+<br>
+
+<div class="container">  
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <!-- <a href="/w3images/lights.jpg" target="_blank"> -->
+          <img src='{% static "pic/img4.jfif" %}' alt="Lights" style="width:100%;height:240px; max-width:100%;">
+          <div class="caption">
+            <p></p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <!-- <a href="/w3images/nature.jpg" target="_blank"> -->
+          <img src='{% static "pic/img7.jfif" %}' alt="Nature" style="width:100%;height:240px; max-width:100%; ">
+          <div class="caption">
+            <p></p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+       <!--  <a href="/w3images/fjords.jpg" target="_blank"> -->
+          <img src='{% static "pic/img3.jfif" %}' alt="Fjords" style="width:100%;height:240px; max-width:100%;">
+          <div class="caption">
+            <p></p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<br>
+<br>
+<div class="footer-main-div">
+     
+   <div class="footer-social-icons">
+       <ul>
+         <li><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+          <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+          <li><a href="#" target="_blank"><i class="fa fa-envelope"></i></a></li>
+         </ul>
+  
+     </div>
+     
+
+</div>
+<div class="footer-bottom">
+  <b id="margin">&copy; Copyright Design by Pharma Future</b><b id="team">THE ALPHA VIBE</b>
+</div>
+</div>
+
+
+
+
+</body>
+</html>

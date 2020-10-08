@@ -1,0 +1,769 @@
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,,Weak,Soft Tissue Infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Delhi,23,male,not applicable,Weak,Urinary Tract infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Delhi,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Delhi,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,23,male,not applicable,Weak,Urinary Tract infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Delhi,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Delhi,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Delhi,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Delhi,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Delhi,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Agra,12,male,not applicable,Weak,Urinary Tract infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Delhi,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Agra,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Delhi,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Agra,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Delhi,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Agra,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Agra,12,male,not applicable,Weak,Urinary Tract infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Delhi,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Agra,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Agra,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,45,male,not applicable,Weak,Urinary Tract infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Delhi,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Agra,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Agra,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,45,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Delhi,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Agra,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Agra,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,45,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Delhi,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Agra,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Agra,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,45,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Delhi,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Agra,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Agra,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,45,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Antibiotic,location,age,gender,pregnancy,immunestatus,infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Agra,12,male,not applicable,Weak,Soft Tissue Infection
+Amoxycillin,Agra,12,male,not applicable,Weak,Upper/Lower Respiratory Tract Infection
+Piperacillin,Mainpuri,12,male,not applicable,Weak,Soft Tissue Infection
+Aminoglycoside,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Ghaziabad,12,male,not applicable,Weak,Urinary Tract infection
+Carbapenum,Nagpur,34,male,not applicable,Good,Abdominal infection
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+fluoroquinolone,kanpur,41,female,pregnant,Good,pyogenic meningitis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Cephdosporems,kanpur,24,female,Not Pregnant,Good,bones and joints sepsis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Delhi,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,23,male,not applicable,Weak,Urinary Tract infection
+Linezolid,Pune,12,male,not applicable,Weak,Pyogenic meningitis
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Agra,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Agra,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,45,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Piperacillin,Pune,12,male,not applicable,Weak,Soft Tissue Infection
+Fluoroquinolone,Pune,12,male,not applicable,Weak,Urinary Tract infection
+Fluoroquinolone,Agra,12,male,not applicable,Weak,Urinary Tract infection

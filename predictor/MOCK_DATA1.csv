@@ -1,0 +1,1001 @@
+antibiotic,age,resistance,gender,pregnancy,immune,location,infection
+Piperacillin,19,FALSE,Male,TRUE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,37,TRUE,Male,TRUE,TRUE,delhi,Urinary Tract infection
+Ampicillin,33,FALSE,Female,TRUE,FALSE,delhi,Soft Tissue Infection
+Aminoglycoside,9,FALSE,Female,FALSE,FALSE,noida,Pyogenic meningitis
+carbapenem,65,FALSE,Female,FALSE,TRUE,noida,Abdominal infection/Peritonitis
+Linezolid,14,TRUE,Male,TRUE,TRUE,kanpur,Bones and Joints Sepsis
+Clindamycin,46,TRUE,Male,FALSE,TRUE,ghaziabad,Upper/Lower Respiratory Tract Infection
+Metronidazole,57,FALSE,Male,FALSE,TRUE,gurgaon,Urinary Tract infection
+Amoxycillin,41,TRUE,Male,FALSE,TRUE,lucknow,Soft Tissue Infection
+Piperacillin,45,FALSE,Female,FALSE,FALSE,raipur,Pyogenic meningitis
+Fluoroquinolone,9,TRUE,Female,FALSE,FALSE,bhubhaneshwar,Abdominal infection/Peritonitis
+Ampicillin,50,TRUE,Female,TRUE,FALSE,srinagar,Bones and Joints Sepsis
+Aminoglycoside,8,TRUE,Female,TRUE,FALSE,srinagar,Upper/Lower Respiratory Tract Infection
+carbapenem,22,FALSE,Female,TRUE,TRUE,delhi,Urinary Tract infection
+Linezolid,16,FALSE,Female,FALSE,FALSE,delhi,Soft Tissue Infection
+Clindamycin,18,FALSE,Male,FALSE,FALSE,delhi,Pyogenic meningitis
+Metronidazole,21,TRUE,Male,FALSE,FALSE,noida,Abdominal infection/Peritonitis
+Amoxycillin,40,FALSE,Male,TRUE,FALSE,noida,Bones and Joints Sepsis
+Piperacillin,58,FALSE,Female,FALSE,TRUE,kanpur,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,8,FALSE,Female,FALSE,FALSE,ghaziabad,Urinary Tract infection
+Ampicillin,60,FALSE,Male,TRUE,TRUE,gurgaon,Soft Tissue Infection
+Aminoglycoside,12,TRUE,Male,TRUE,FALSE,lucknow,Pyogenic meningitis
+carbapenem,33,FALSE,Female,TRUE,TRUE,raipur,Abdominal infection/Peritonitis
+Linezolid,42,TRUE,Female,TRUE,TRUE,bhubhaneshwar,Bones and Joints Sepsis
+Clindamycin,31,FALSE,Female,FALSE,TRUE,srinagar,Upper/Lower Respiratory Tract Infection
+Metronidazole,22,FALSE,Male,FALSE,FALSE,srinagar,Urinary Tract infection
+Amoxycillin,33,TRUE,Male,TRUE,TRUE,delhi,Soft Tissue Infection
+Piperacillin,28,TRUE,Female,TRUE,FALSE,delhi,Pyogenic meningitis
+Fluoroquinolone,18,FALSE,Male,FALSE,TRUE,delhi,Abdominal infection/Peritonitis
+Ampicillin,39,TRUE,Male,TRUE,TRUE,noida,Bones and Joints Sepsis
+Aminoglycoside,40,TRUE,Male,FALSE,TRUE,noida,Upper/Lower Respiratory Tract Infection
+carbapenem,15,TRUE,Female,TRUE,TRUE,kanpur,Urinary Tract infection
+Linezolid,13,FALSE,Male,TRUE,FALSE,ghaziabad,Soft Tissue Infection
+Clindamycin,35,FALSE,Male,TRUE,TRUE,gurgaon,Pyogenic meningitis
+Metronidazole,23,FALSE,Female,TRUE,TRUE,lucknow,Abdominal infection/Peritonitis
+Amoxycillin,34,TRUE,Male,FALSE,FALSE,raipur,Bones and Joints Sepsis
+Piperacillin,19,TRUE,Female,TRUE,FALSE,bhubhaneshwar,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,15,FALSE,Female,TRUE,TRUE,srinagar,Urinary Tract infection
+Ampicillin,12,TRUE,Male,FALSE,TRUE,srinagar,Soft Tissue Infection
+Aminoglycoside,24,FALSE,Female,TRUE,FALSE,delhi,Pyogenic meningitis
+carbapenem,59,FALSE,Female,FALSE,TRUE,delhi,Abdominal infection/Peritonitis
+Linezolid,70,TRUE,Female,TRUE,TRUE,delhi,Bones and Joints Sepsis
+Clindamycin,52,FALSE,Male,FALSE,TRUE,noida,Upper/Lower Respiratory Tract Infection
+Metronidazole,43,FALSE,Female,FALSE,TRUE,noida,Urinary Tract infection
+Amoxycillin,32,TRUE,Female,TRUE,FALSE,kanpur,Soft Tissue Infection
+Piperacillin,58,FALSE,Female,TRUE,TRUE,ghaziabad,Pyogenic meningitis
+Fluoroquinolone,20,FALSE,Male,FALSE,TRUE,gurgaon,Abdominal infection/Peritonitis
+Ampicillin,33,FALSE,Male,TRUE,FALSE,lucknow,Bones and Joints Sepsis
+Aminoglycoside,70,TRUE,Male,FALSE,TRUE,raipur,Upper/Lower Respiratory Tract Infection
+carbapenem,31,TRUE,Female,FALSE,TRUE,bhubhaneshwar,Urinary Tract infection
+Linezolid,47,FALSE,Male,TRUE,FALSE,srinagar,Soft Tissue Infection
+Clindamycin,27,FALSE,Female,FALSE,FALSE,srinagar,Pyogenic meningitis
+Metronidazole,23,TRUE,Female,FALSE,TRUE,delhi,Abdominal infection/Peritonitis
+Amoxycillin,23,TRUE,Female,TRUE,FALSE,delhi,Bones and Joints Sepsis
+Piperacillin,21,FALSE,Female,TRUE,FALSE,delhi,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,43,FALSE,Female,FALSE,FALSE,noida,Urinary Tract infection
+Ampicillin,63,TRUE,Female,FALSE,FALSE,noida,Soft Tissue Infection
+Aminoglycoside,25,TRUE,Female,FALSE,FALSE,kanpur,Pyogenic meningitis
+carbapenem,44,TRUE,Male,FALSE,FALSE,ghaziabad,Abdominal infection/Peritonitis
+Linezolid,13,FALSE,Male,TRUE,TRUE,gurgaon,Bones and Joints Sepsis
+Clindamycin,64,TRUE,Female,FALSE,FALSE,lucknow,Upper/Lower Respiratory Tract Infection
+Metronidazole,63,FALSE,Female,FALSE,FALSE,raipur,Urinary Tract infection
+Amoxycillin,41,FALSE,Female,FALSE,FALSE,bhubhaneshwar,Soft Tissue Infection
+Piperacillin,18,FALSE,Male,FALSE,TRUE,srinagar,Pyogenic meningitis
+Fluoroquinolone,31,FALSE,Male,FALSE,TRUE,srinagar,Abdominal infection/Peritonitis
+Ampicillin,37,TRUE,Male,FALSE,FALSE,delhi,Bones and Joints Sepsis
+Aminoglycoside,59,TRUE,Female,FALSE,FALSE,delhi,Upper/Lower Respiratory Tract Infection
+carbapenem,52,FALSE,Male,FALSE,TRUE,delhi,Urinary Tract infection
+Linezolid,40,TRUE,Male,TRUE,FALSE,noida,Soft Tissue Infection
+Clindamycin,33,FALSE,Female,TRUE,FALSE,noida,Pyogenic meningitis
+Metronidazole,12,TRUE,Male,FALSE,FALSE,kanpur,Abdominal infection/Peritonitis
+Amoxycillin,48,TRUE,Male,TRUE,TRUE,ghaziabad,Bones and Joints Sepsis
+Piperacillin,45,TRUE,Male,FALSE,TRUE,gurgaon,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,61,FALSE,Female,FALSE,TRUE,lucknow,Urinary Tract infection
+Ampicillin,7,FALSE,Female,FALSE,TRUE,raipur,Soft Tissue Infection
+Aminoglycoside,66,FALSE,Male,TRUE,TRUE,bhubhaneshwar,Pyogenic meningitis
+carbapenem,29,FALSE,Male,FALSE,FALSE,srinagar,Abdominal infection/Peritonitis
+Linezolid,63,TRUE,Female,FALSE,FALSE,srinagar,Bones and Joints Sepsis
+Clindamycin,18,FALSE,Female,FALSE,FALSE,delhi,Upper/Lower Respiratory Tract Infection
+Metronidazole,30,FALSE,Male,TRUE,FALSE,delhi,Urinary Tract infection
+Amoxycillin,15,FALSE,Female,TRUE,FALSE,delhi,Soft Tissue Infection
+Piperacillin,63,FALSE,Female,TRUE,FALSE,noida,Pyogenic meningitis
+Fluoroquinolone,44,FALSE,Male,FALSE,TRUE,noida,Abdominal infection/Peritonitis
+Ampicillin,27,FALSE,Male,FALSE,TRUE,kanpur,Bones and Joints Sepsis
+Aminoglycoside,55,FALSE,Female,FALSE,FALSE,ghaziabad,Upper/Lower Respiratory Tract Infection
+carbapenem,33,TRUE,Female,FALSE,TRUE,gurgaon,Urinary Tract infection
+Linezolid,24,TRUE,Female,FALSE,FALSE,lucknow,Soft Tissue Infection
+Clindamycin,43,TRUE,Female,FALSE,FALSE,raipur,Pyogenic meningitis
+Metronidazole,31,TRUE,Male,TRUE,TRUE,bhubhaneshwar,Abdominal infection/Peritonitis
+Amoxycillin,10,FALSE,Male,FALSE,FALSE,srinagar,Bones and Joints Sepsis
+Piperacillin,8,TRUE,Male,FALSE,TRUE,srinagar,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,58,TRUE,Male,FALSE,TRUE,delhi,Urinary Tract infection
+Ampicillin,40,FALSE,Male,FALSE,TRUE,delhi,Soft Tissue Infection
+Aminoglycoside,34,FALSE,Female,TRUE,TRUE,delhi,Pyogenic meningitis
+carbapenem,55,TRUE,Male,FALSE,TRUE,noida,Abdominal infection/Peritonitis
+Linezolid,12,TRUE,Female,TRUE,TRUE,noida,Bones and Joints Sepsis
+Clindamycin,24,FALSE,Female,FALSE,TRUE,kanpur,Upper/Lower Respiratory Tract Infection
+Metronidazole,44,FALSE,Female,TRUE,FALSE,ghaziabad,Urinary Tract infection
+Amoxycillin,63,FALSE,Male,FALSE,TRUE,gurgaon,Soft Tissue Infection
+Piperacillin,38,FALSE,Male,FALSE,TRUE,lucknow,Pyogenic meningitis
+Fluoroquinolone,67,FALSE,Male,FALSE,FALSE,raipur,Abdominal infection/Peritonitis
+Ampicillin,33,FALSE,Female,TRUE,TRUE,bhubhaneshwar,Bones and Joints Sepsis
+Aminoglycoside,23,FALSE,Male,FALSE,TRUE,srinagar,Upper/Lower Respiratory Tract Infection
+carbapenem,22,TRUE,Male,TRUE,FALSE,srinagar,Urinary Tract infection
+Linezolid,15,TRUE,Male,FALSE,TRUE,delhi,Soft Tissue Infection
+Clindamycin,25,FALSE,Female,FALSE,FALSE,delhi,Pyogenic meningitis
+Metronidazole,64,FALSE,Female,TRUE,FALSE,delhi,Abdominal infection/Peritonitis
+Amoxycillin,65,TRUE,Female,TRUE,TRUE,noida,Bones and Joints Sepsis
+Piperacillin,31,FALSE,Male,FALSE,TRUE,noida,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,39,TRUE,Female,TRUE,TRUE,kanpur,Urinary Tract infection
+Ampicillin,68,FALSE,Female,TRUE,TRUE,ghaziabad,Soft Tissue Infection
+Aminoglycoside,27,FALSE,Male,TRUE,FALSE,gurgaon,Pyogenic meningitis
+carbapenem,59,FALSE,Female,FALSE,FALSE,lucknow,Abdominal infection/Peritonitis
+Linezolid,26,TRUE,Female,FALSE,TRUE,raipur,Bones and Joints Sepsis
+Clindamycin,22,TRUE,Female,TRUE,FALSE,bhubhaneshwar,Upper/Lower Respiratory Tract Infection
+Metronidazole,41,TRUE,Male,TRUE,FALSE,srinagar,Urinary Tract infection
+Amoxycillin,59,FALSE,Female,TRUE,TRUE,srinagar,Soft Tissue Infection
+Piperacillin,24,TRUE,Male,TRUE,FALSE,delhi,Pyogenic meningitis
+Fluoroquinolone,25,TRUE,Female,TRUE,FALSE,delhi,Abdominal infection/Peritonitis
+Ampicillin,18,FALSE,Female,TRUE,FALSE,delhi,Bones and Joints Sepsis
+Aminoglycoside,56,FALSE,Female,TRUE,FALSE,noida,Upper/Lower Respiratory Tract Infection
+carbapenem,46,FALSE,Female,TRUE,FALSE,noida,Urinary Tract infection
+Linezolid,68,FALSE,Male,FALSE,TRUE,kanpur,Soft Tissue Infection
+Clindamycin,56,TRUE,Male,TRUE,FALSE,ghaziabad,Pyogenic meningitis
+Metronidazole,52,FALSE,Female,TRUE,TRUE,gurgaon,Abdominal infection/Peritonitis
+Amoxycillin,55,FALSE,Female,FALSE,TRUE,lucknow,Bones and Joints Sepsis
+Piperacillin,60,TRUE,Male,TRUE,FALSE,raipur,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,21,TRUE,Male,TRUE,FALSE,bhubhaneshwar,Urinary Tract infection
+Ampicillin,23,FALSE,Male,FALSE,FALSE,srinagar,Soft Tissue Infection
+Aminoglycoside,39,TRUE,Male,FALSE,TRUE,srinagar,Pyogenic meningitis
+carbapenem,49,FALSE,Female,TRUE,FALSE,delhi,Abdominal infection/Peritonitis
+Linezolid,70,TRUE,Male,TRUE,FALSE,delhi,Bones and Joints Sepsis
+Clindamycin,55,TRUE,Female,FALSE,FALSE,delhi,Upper/Lower Respiratory Tract Infection
+Metronidazole,48,TRUE,Female,TRUE,FALSE,noida,Urinary Tract infection
+Amoxycillin,59,TRUE,Male,TRUE,FALSE,noida,Soft Tissue Infection
+Piperacillin,36,FALSE,Female,FALSE,TRUE,kanpur,Pyogenic meningitis
+Fluoroquinolone,31,FALSE,Male,FALSE,TRUE,ghaziabad,Abdominal infection/Peritonitis
+Ampicillin,41,FALSE,Male,FALSE,TRUE,gurgaon,Bones and Joints Sepsis
+Aminoglycoside,44,TRUE,Male,TRUE,TRUE,lucknow,Upper/Lower Respiratory Tract Infection
+carbapenem,65,FALSE,Male,TRUE,FALSE,raipur,Urinary Tract infection
+Linezolid,17,FALSE,Female,TRUE,FALSE,bhubhaneshwar,Soft Tissue Infection
+Clindamycin,11,TRUE,Female,FALSE,TRUE,srinagar,Pyogenic meningitis
+Metronidazole,27,TRUE,Female,FALSE,FALSE,srinagar,Abdominal infection/Peritonitis
+Amoxycillin,51,TRUE,Female,TRUE,FALSE,delhi,Bones and Joints Sepsis
+Piperacillin,70,FALSE,Female,TRUE,FALSE,delhi,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,26,TRUE,Female,FALSE,FALSE,delhi,Urinary Tract infection
+Ampicillin,47,TRUE,Male,TRUE,TRUE,noida,Soft Tissue Infection
+Aminoglycoside,67,FALSE,Male,TRUE,TRUE,noida,Pyogenic meningitis
+carbapenem,36,TRUE,Male,FALSE,TRUE,kanpur,Abdominal infection/Peritonitis
+Linezolid,31,TRUE,Female,FALSE,TRUE,ghaziabad,Bones and Joints Sepsis
+Clindamycin,70,TRUE,Male,TRUE,FALSE,gurgaon,Upper/Lower Respiratory Tract Infection
+Metronidazole,60,TRUE,Male,TRUE,TRUE,lucknow,Urinary Tract infection
+Amoxycillin,29,FALSE,Male,TRUE,TRUE,raipur,Soft Tissue Infection
+Piperacillin,48,FALSE,Female,FALSE,FALSE,bhubhaneshwar,Pyogenic meningitis
+Fluoroquinolone,10,FALSE,Female,TRUE,TRUE,srinagar,Abdominal infection/Peritonitis
+Ampicillin,24,FALSE,Male,TRUE,FALSE,srinagar,Bones and Joints Sepsis
+Aminoglycoside,31,TRUE,Male,TRUE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+carbapenem,7,TRUE,Male,TRUE,TRUE,delhi,Urinary Tract infection
+Linezolid,30,TRUE,Female,FALSE,TRUE,delhi,Soft Tissue Infection
+Clindamycin,58,FALSE,Male,FALSE,TRUE,noida,Pyogenic meningitis
+Metronidazole,59,FALSE,Female,TRUE,TRUE,noida,Abdominal infection/Peritonitis
+Amoxycillin,21,FALSE,Male,FALSE,TRUE,kanpur,Bones and Joints Sepsis
+Piperacillin,66,FALSE,Female,TRUE,TRUE,ghaziabad,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,51,FALSE,Female,TRUE,TRUE,gurgaon,Urinary Tract infection
+Ampicillin,24,TRUE,Male,TRUE,FALSE,lucknow,Soft Tissue Infection
+Aminoglycoside,61,FALSE,Male,FALSE,TRUE,raipur,Pyogenic meningitis
+carbapenem,31,FALSE,Female,FALSE,FALSE,bhubhaneshwar,Abdominal infection/Peritonitis
+Linezolid,52,FALSE,Female,TRUE,TRUE,srinagar,Bones and Joints Sepsis
+Clindamycin,17,TRUE,Female,TRUE,FALSE,srinagar,Upper/Lower Respiratory Tract Infection
+Metronidazole,20,FALSE,Female,FALSE,FALSE,delhi,Urinary Tract infection
+Amoxycillin,7,FALSE,Female,FALSE,TRUE,delhi,Soft Tissue Infection
+Piperacillin,13,TRUE,Female,FALSE,FALSE,delhi,Pyogenic meningitis
+Fluoroquinolone,9,TRUE,Female,TRUE,FALSE,noida,Abdominal infection/Peritonitis
+Ampicillin,16,TRUE,Male,TRUE,FALSE,noida,Bones and Joints Sepsis
+Aminoglycoside,27,FALSE,Female,TRUE,TRUE,kanpur,Upper/Lower Respiratory Tract Infection
+carbapenem,12,FALSE,Female,TRUE,FALSE,ghaziabad,Urinary Tract infection
+Linezolid,22,TRUE,Female,FALSE,TRUE,gurgaon,Soft Tissue Infection
+Clindamycin,66,FALSE,Male,FALSE,TRUE,lucknow,Pyogenic meningitis
+Metronidazole,18,TRUE,Female,FALSE,TRUE,raipur,Abdominal infection/Peritonitis
+Amoxycillin,27,TRUE,Female,FALSE,FALSE,bhubhaneshwar,Bones and Joints Sepsis
+Piperacillin,54,TRUE,Male,FALSE,TRUE,srinagar,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,62,FALSE,Male,FALSE,FALSE,srinagar,Urinary Tract infection
+Ampicillin,34,FALSE,Male,TRUE,TRUE,delhi,Soft Tissue Infection
+Aminoglycoside,33,FALSE,Female,TRUE,TRUE,delhi,Pyogenic meningitis
+carbapenem,7,TRUE,Female,FALSE,FALSE,delhi,Abdominal infection/Peritonitis
+Linezolid,23,TRUE,Male,TRUE,TRUE,noida,Bones and Joints Sepsis
+Clindamycin,20,TRUE,Male,TRUE,TRUE,noida,Upper/Lower Respiratory Tract Infection
+Metronidazole,31,TRUE,Male,TRUE,FALSE,kanpur,Urinary Tract infection
+Amoxycillin,67,FALSE,Female,FALSE,TRUE,ghaziabad,Soft Tissue Infection
+Piperacillin,38,FALSE,Female,TRUE,FALSE,gurgaon,Pyogenic meningitis
+Fluoroquinolone,62,FALSE,Male,TRUE,FALSE,lucknow,Abdominal infection/Peritonitis
+Ampicillin,46,TRUE,Female,FALSE,FALSE,raipur,Bones and Joints Sepsis
+Aminoglycoside,63,TRUE,Male,TRUE,FALSE,bhubhaneshwar,Upper/Lower Respiratory Tract Infection
+carbapenem,62,TRUE,Male,FALSE,FALSE,srinagar,Urinary Tract infection
+Linezolid,58,FALSE,Female,TRUE,TRUE,srinagar,Soft Tissue Infection
+Clindamycin,67,TRUE,Female,TRUE,FALSE,delhi,Pyogenic meningitis
+Metronidazole,58,FALSE,Female,FALSE,FALSE,delhi,Abdominal infection/Peritonitis
+Amoxycillin,11,TRUE,Male,FALSE,FALSE,delhi,Bones and Joints Sepsis
+Piperacillin,46,FALSE,Female,TRUE,FALSE,noida,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,10,TRUE,Female,FALSE,FALSE,noida,Urinary Tract infection
+Ampicillin,47,TRUE,Male,TRUE,TRUE,kanpur,Soft Tissue Infection
+Aminoglycoside,39,TRUE,Male,FALSE,TRUE,ghaziabad,Pyogenic meningitis
+carbapenem,53,TRUE,Female,FALSE,TRUE,gurgaon,Abdominal infection/Peritonitis
+Linezolid,12,TRUE,Male,FALSE,FALSE,lucknow,Bones and Joints Sepsis
+Clindamycin,41,TRUE,Male,FALSE,TRUE,raipur,Upper/Lower Respiratory Tract Infection
+Metronidazole,33,TRUE,Female,FALSE,TRUE,bhubhaneshwar,Urinary Tract infection
+Amoxycillin,39,TRUE,Male,FALSE,TRUE,srinagar,Soft Tissue Infection
+Piperacillin,39,TRUE,Female,FALSE,TRUE,srinagar,Pyogenic meningitis
+Fluoroquinolone,16,FALSE,Male,TRUE,TRUE,delhi,Abdominal infection/Peritonitis
+Ampicillin,63,FALSE,Male,TRUE,FALSE,delhi,Bones and Joints Sepsis
+Aminoglycoside,25,FALSE,Female,TRUE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+carbapenem,53,TRUE,Male,TRUE,TRUE,noida,Urinary Tract infection
+Linezolid,46,TRUE,Female,TRUE,FALSE,noida,Soft Tissue Infection
+Clindamycin,68,TRUE,Female,FALSE,FALSE,kanpur,Pyogenic meningitis
+Metronidazole,18,FALSE,Female,TRUE,FALSE,ghaziabad,Abdominal infection/Peritonitis
+Amoxycillin,69,TRUE,Male,TRUE,TRUE,gurgaon,Bones and Joints Sepsis
+Piperacillin,22,FALSE,Male,FALSE,FALSE,lucknow,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,34,TRUE,Female,TRUE,FALSE,raipur,Urinary Tract infection
+Ampicillin,67,TRUE,Female,FALSE,TRUE,bhubhaneshwar,Soft Tissue Infection
+Aminoglycoside,18,FALSE,Male,TRUE,TRUE,srinagar,Pyogenic meningitis
+carbapenem,13,FALSE,Male,TRUE,TRUE,srinagar,Abdominal infection/Peritonitis
+Linezolid,9,TRUE,Male,TRUE,TRUE,delhi,Bones and Joints Sepsis
+Clindamycin,68,FALSE,Male,FALSE,FALSE,delhi,Upper/Lower Respiratory Tract Infection
+Metronidazole,17,TRUE,Female,TRUE,FALSE,delhi,Urinary Tract infection
+Amoxycillin,53,FALSE,Female,TRUE,TRUE,noida,Soft Tissue Infection
+Piperacillin,16,TRUE,Male,FALSE,FALSE,noida,Pyogenic meningitis
+Fluoroquinolone,58,FALSE,Female,FALSE,FALSE,kanpur,Abdominal infection/Peritonitis
+Ampicillin,57,FALSE,Female,FALSE,FALSE,ghaziabad,Bones and Joints Sepsis
+Aminoglycoside,69,TRUE,Female,FALSE,TRUE,gurgaon,Upper/Lower Respiratory Tract Infection
+carbapenem,37,TRUE,Male,TRUE,TRUE,lucknow,Urinary Tract infection
+Linezolid,48,FALSE,Female,TRUE,TRUE,raipur,Soft Tissue Infection
+Clindamycin,55,FALSE,Female,TRUE,TRUE,bhubhaneshwar,Pyogenic meningitis
+Metronidazole,64,TRUE,Male,TRUE,FALSE,srinagar,Abdominal infection/Peritonitis
+Amoxycillin,28,FALSE,Female,TRUE,TRUE,srinagar,Bones and Joints Sepsis
+Piperacillin,22,FALSE,Male,TRUE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,65,TRUE,Male,TRUE,FALSE,delhi,Urinary Tract infection
+Ampicillin,30,FALSE,Male,FALSE,FALSE,delhi,Soft Tissue Infection
+Aminoglycoside,63,FALSE,Male,TRUE,FALSE,noida,Pyogenic meningitis
+carbapenem,37,TRUE,Male,FALSE,FALSE,noida,Abdominal infection/Peritonitis
+Linezolid,65,TRUE,Female,TRUE,FALSE,kanpur,Bones and Joints Sepsis
+Clindamycin,59,TRUE,Male,TRUE,TRUE,ghaziabad,Upper/Lower Respiratory Tract Infection
+Metronidazole,44,TRUE,Female,FALSE,FALSE,gurgaon,Urinary Tract infection
+Amoxycillin,15,FALSE,Male,FALSE,TRUE,lucknow,Soft Tissue Infection
+Piperacillin,38,FALSE,Male,TRUE,TRUE,raipur,Pyogenic meningitis
+Fluoroquinolone,28,FALSE,Female,FALSE,FALSE,bhubhaneshwar,Abdominal infection/Peritonitis
+Ampicillin,26,TRUE,Female,TRUE,TRUE,srinagar,Bones and Joints Sepsis
+Aminoglycoside,54,FALSE,Male,FALSE,FALSE,srinagar,Upper/Lower Respiratory Tract Infection
+carbapenem,31,FALSE,Male,TRUE,TRUE,delhi,Urinary Tract infection
+Linezolid,55,TRUE,Female,FALSE,FALSE,delhi,Soft Tissue Infection
+Clindamycin,16,TRUE,Female,FALSE,TRUE,delhi,Pyogenic meningitis
+Metronidazole,35,FALSE,Female,TRUE,TRUE,noida,Abdominal infection/Peritonitis
+Amoxycillin,54,TRUE,Female,FALSE,TRUE,noida,Bones and Joints Sepsis
+Piperacillin,53,TRUE,Male,FALSE,FALSE,kanpur,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,41,FALSE,Male,FALSE,TRUE,ghaziabad,Urinary Tract infection
+Ampicillin,18,FALSE,Male,FALSE,TRUE,gurgaon,Soft Tissue Infection
+Aminoglycoside,55,FALSE,Male,TRUE,TRUE,lucknow,Pyogenic meningitis
+carbapenem,17,FALSE,Female,FALSE,FALSE,raipur,Abdominal infection/Peritonitis
+Linezolid,46,FALSE,Male,FALSE,FALSE,bhubhaneshwar,Bones and Joints Sepsis
+Clindamycin,19,TRUE,Female,FALSE,TRUE,srinagar,Upper/Lower Respiratory Tract Infection
+Metronidazole,11,FALSE,Female,FALSE,TRUE,srinagar,Urinary Tract infection
+Amoxycillin,23,TRUE,Male,TRUE,FALSE,delhi,Soft Tissue Infection
+Piperacillin,40,TRUE,Male,TRUE,FALSE,delhi,Pyogenic meningitis
+Fluoroquinolone,28,TRUE,Female,FALSE,FALSE,delhi,Abdominal infection/Peritonitis
+Ampicillin,38,FALSE,Female,FALSE,FALSE,noida,Bones and Joints Sepsis
+Aminoglycoside,32,FALSE,Female,FALSE,TRUE,noida,Upper/Lower Respiratory Tract Infection
+carbapenem,41,FALSE,Female,TRUE,TRUE,kanpur,Urinary Tract infection
+Linezolid,37,FALSE,Male,FALSE,TRUE,ghaziabad,Soft Tissue Infection
+Clindamycin,61,FALSE,Male,TRUE,TRUE,gurgaon,Pyogenic meningitis
+Metronidazole,52,TRUE,Female,TRUE,FALSE,lucknow,Abdominal infection/Peritonitis
+Amoxycillin,56,TRUE,Female,FALSE,FALSE,raipur,Bones and Joints Sepsis
+Piperacillin,60,FALSE,Male,FALSE,TRUE,bhubhaneshwar,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,62,FALSE,Male,FALSE,TRUE,srinagar,Urinary Tract infection
+Ampicillin,56,FALSE,Male,TRUE,TRUE,srinagar,Soft Tissue Infection
+Aminoglycoside,67,FALSE,Male,TRUE,TRUE,delhi,Pyogenic meningitis
+carbapenem,51,TRUE,Female,FALSE,FALSE,delhi,Abdominal infection/Peritonitis
+Linezolid,59,FALSE,Male,TRUE,FALSE,delhi,Bones and Joints Sepsis
+Clindamycin,8,TRUE,Male,FALSE,TRUE,noida,Upper/Lower Respiratory Tract Infection
+Metronidazole,70,FALSE,Female,TRUE,FALSE,noida,Urinary Tract infection
+Amoxycillin,29,FALSE,Male,TRUE,TRUE,kanpur,Soft Tissue Infection
+Piperacillin,47,FALSE,Female,TRUE,FALSE,ghaziabad,Pyogenic meningitis
+Fluoroquinolone,18,TRUE,Female,FALSE,TRUE,gurgaon,Abdominal infection/Peritonitis
+Ampicillin,7,TRUE,Male,FALSE,FALSE,lucknow,Bones and Joints Sepsis
+Aminoglycoside,15,TRUE,Female,TRUE,TRUE,raipur,Upper/Lower Respiratory Tract Infection
+carbapenem,45,TRUE,Female,TRUE,FALSE,bhubhaneshwar,Urinary Tract infection
+Linezolid,15,FALSE,Male,FALSE,FALSE,srinagar,Soft Tissue Infection
+Clindamycin,13,FALSE,Male,FALSE,TRUE,srinagar,Pyogenic meningitis
+Metronidazole,51,TRUE,Female,TRUE,FALSE,delhi,Abdominal infection/Peritonitis
+Amoxycillin,40,TRUE,Male,FALSE,FALSE,delhi,Bones and Joints Sepsis
+Piperacillin,17,FALSE,Male,FALSE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,50,FALSE,Female,TRUE,TRUE,noida,Urinary Tract infection
+Ampicillin,39,TRUE,Male,TRUE,TRUE,noida,Soft Tissue Infection
+Aminoglycoside,10,FALSE,Male,FALSE,TRUE,kanpur,Pyogenic meningitis
+carbapenem,67,TRUE,Male,TRUE,FALSE,ghaziabad,Abdominal infection/Peritonitis
+Linezolid,52,TRUE,Male,TRUE,TRUE,gurgaon,Bones and Joints Sepsis
+Clindamycin,42,TRUE,Male,FALSE,TRUE,lucknow,Upper/Lower Respiratory Tract Infection
+Metronidazole,68,FALSE,Female,FALSE,FALSE,raipur,Urinary Tract infection
+Amoxycillin,15,FALSE,Male,FALSE,FALSE,bhubhaneshwar,Soft Tissue Infection
+Piperacillin,69,FALSE,Male,FALSE,TRUE,srinagar,Pyogenic meningitis
+Fluoroquinolone,56,FALSE,Female,TRUE,TRUE,srinagar,Abdominal infection/Peritonitis
+Ampicillin,65,TRUE,Male,TRUE,TRUE,delhi,Bones and Joints Sepsis
+Aminoglycoside,7,FALSE,Male,TRUE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+carbapenem,70,FALSE,Male,TRUE,TRUE,delhi,Urinary Tract infection
+Linezolid,38,FALSE,Male,TRUE,TRUE,noida,Soft Tissue Infection
+Clindamycin,70,FALSE,Male,TRUE,FALSE,noida,Pyogenic meningitis
+Metronidazole,46,TRUE,Female,TRUE,TRUE,kanpur,Abdominal infection/Peritonitis
+Amoxycillin,40,FALSE,Female,FALSE,FALSE,ghaziabad,Bones and Joints Sepsis
+Piperacillin,12,FALSE,Male,TRUE,FALSE,gurgaon,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,67,FALSE,Female,FALSE,FALSE,lucknow,Urinary Tract infection
+Ampicillin,64,FALSE,Male,FALSE,FALSE,raipur,Soft Tissue Infection
+Aminoglycoside,44,TRUE,Male,FALSE,TRUE,bhubhaneshwar,Pyogenic meningitis
+carbapenem,24,FALSE,Female,FALSE,FALSE,srinagar,Abdominal infection/Peritonitis
+Linezolid,17,TRUE,Female,TRUE,FALSE,srinagar,Bones and Joints Sepsis
+Clindamycin,15,TRUE,Male,TRUE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+Metronidazole,60,FALSE,Male,TRUE,TRUE,delhi,Urinary Tract infection
+Amoxycillin,52,TRUE,Male,FALSE,TRUE,delhi,Soft Tissue Infection
+Piperacillin,30,FALSE,Male,FALSE,TRUE,noida,Pyogenic meningitis
+Fluoroquinolone,16,TRUE,Female,TRUE,TRUE,noida,Abdominal infection/Peritonitis
+Ampicillin,61,TRUE,Female,FALSE,TRUE,kanpur,Bones and Joints Sepsis
+Aminoglycoside,58,FALSE,Female,FALSE,FALSE,ghaziabad,Upper/Lower Respiratory Tract Infection
+carbapenem,13,TRUE,Female,TRUE,TRUE,gurgaon,Urinary Tract infection
+Linezolid,33,TRUE,Male,TRUE,FALSE,lucknow,Soft Tissue Infection
+Clindamycin,55,TRUE,Male,FALSE,TRUE,raipur,Pyogenic meningitis
+Metronidazole,8,FALSE,Male,TRUE,TRUE,bhubhaneshwar,Abdominal infection/Peritonitis
+Amoxycillin,47,FALSE,Male,TRUE,TRUE,srinagar,Bones and Joints Sepsis
+Piperacillin,35,FALSE,Male,TRUE,TRUE,srinagar,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,16,TRUE,Female,FALSE,TRUE,delhi,Urinary Tract infection
+Ampicillin,63,FALSE,Male,TRUE,TRUE,delhi,Soft Tissue Infection
+Aminoglycoside,12,TRUE,Female,TRUE,TRUE,delhi,Pyogenic meningitis
+carbapenem,64,TRUE,Female,FALSE,TRUE,noida,Abdominal infection/Peritonitis
+Linezolid,35,TRUE,Male,TRUE,FALSE,noida,Bones and Joints Sepsis
+Clindamycin,25,TRUE,Female,TRUE,TRUE,kanpur,Upper/Lower Respiratory Tract Infection
+Metronidazole,52,TRUE,Male,FALSE,TRUE,ghaziabad,Urinary Tract infection
+Amoxycillin,53,FALSE,Female,FALSE,FALSE,gurgaon,Soft Tissue Infection
+Piperacillin,28,FALSE,Male,TRUE,TRUE,lucknow,Pyogenic meningitis
+Fluoroquinolone,19,TRUE,Female,FALSE,TRUE,raipur,Abdominal infection/Peritonitis
+Ampicillin,50,FALSE,Female,FALSE,FALSE,bhubhaneshwar,Bones and Joints Sepsis
+Aminoglycoside,22,FALSE,Female,TRUE,FALSE,srinagar,Upper/Lower Respiratory Tract Infection
+carbapenem,23,TRUE,Male,FALSE,FALSE,srinagar,Urinary Tract infection
+Linezolid,35,TRUE,Female,TRUE,FALSE,delhi,Soft Tissue Infection
+Clindamycin,46,FALSE,Male,FALSE,TRUE,delhi,Pyogenic meningitis
+Metronidazole,30,TRUE,Male,FALSE,TRUE,delhi,Abdominal infection/Peritonitis
+Amoxycillin,31,TRUE,Male,FALSE,TRUE,noida,Bones and Joints Sepsis
+Piperacillin,16,TRUE,Male,FALSE,FALSE,noida,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,43,FALSE,Female,FALSE,FALSE,kanpur,Urinary Tract infection
+Ampicillin,22,TRUE,Female,TRUE,TRUE,ghaziabad,Soft Tissue Infection
+Aminoglycoside,7,TRUE,Male,FALSE,TRUE,gurgaon,Pyogenic meningitis
+carbapenem,32,FALSE,Male,TRUE,FALSE,lucknow,Abdominal infection/Peritonitis
+Linezolid,18,TRUE,Male,FALSE,FALSE,raipur,Bones and Joints Sepsis
+Clindamycin,23,TRUE,Female,TRUE,FALSE,bhubhaneshwar,Upper/Lower Respiratory Tract Infection
+Metronidazole,26,TRUE,Male,FALSE,FALSE,srinagar,Urinary Tract infection
+Amoxycillin,42,FALSE,Female,TRUE,TRUE,srinagar,Soft Tissue Infection
+Piperacillin,37,TRUE,Male,TRUE,TRUE,delhi,Pyogenic meningitis
+Fluoroquinolone,59,TRUE,Female,FALSE,FALSE,delhi,Abdominal infection/Peritonitis
+Ampicillin,56,FALSE,Male,FALSE,FALSE,delhi,Bones and Joints Sepsis
+Aminoglycoside,51,FALSE,Male,FALSE,TRUE,noida,Upper/Lower Respiratory Tract Infection
+carbapenem,53,TRUE,Male,FALSE,TRUE,noida,Urinary Tract infection
+Linezolid,29,FALSE,Male,FALSE,TRUE,kanpur,Soft Tissue Infection
+Clindamycin,18,TRUE,Female,FALSE,TRUE,ghaziabad,Pyogenic meningitis
+Metronidazole,49,FALSE,Female,TRUE,TRUE,gurgaon,Abdominal infection/Peritonitis
+Amoxycillin,45,FALSE,Male,TRUE,FALSE,lucknow,Bones and Joints Sepsis
+Piperacillin,22,TRUE,Female,TRUE,TRUE,raipur,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,27,FALSE,Female,TRUE,TRUE,bhubhaneshwar,Urinary Tract infection
+Ampicillin,14,TRUE,Male,FALSE,TRUE,srinagar,Soft Tissue Infection
+Aminoglycoside,46,FALSE,Male,FALSE,TRUE,srinagar,Pyogenic meningitis
+carbapenem,12,TRUE,Female,FALSE,FALSE,delhi,Abdominal infection/Peritonitis
+Linezolid,41,FALSE,Male,TRUE,FALSE,delhi,Bones and Joints Sepsis
+Clindamycin,40,FALSE,Male,TRUE,FALSE,delhi,Upper/Lower Respiratory Tract Infection
+Metronidazole,32,FALSE,Male,TRUE,TRUE,noida,Urinary Tract infection
+Amoxycillin,23,FALSE,Male,FALSE,FALSE,noida,Soft Tissue Infection
+Piperacillin,15,TRUE,Female,FALSE,FALSE,kanpur,Pyogenic meningitis
+Fluoroquinolone,29,TRUE,Male,TRUE,FALSE,ghaziabad,Abdominal infection/Peritonitis
+Ampicillin,13,FALSE,Female,TRUE,FALSE,gurgaon,Bones and Joints Sepsis
+Aminoglycoside,43,TRUE,Female,TRUE,FALSE,lucknow,Upper/Lower Respiratory Tract Infection
+carbapenem,70,TRUE,Female,TRUE,FALSE,raipur,Urinary Tract infection
+Linezolid,53,TRUE,Female,TRUE,FALSE,bhubhaneshwar,Soft Tissue Infection
+Clindamycin,58,FALSE,Female,FALSE,TRUE,srinagar,Pyogenic meningitis
+Metronidazole,32,FALSE,Male,TRUE,TRUE,srinagar,Abdominal infection/Peritonitis
+Amoxycillin,49,TRUE,Female,TRUE,TRUE,delhi,Bones and Joints Sepsis
+Piperacillin,26,FALSE,Female,FALSE,FALSE,delhi,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,53,TRUE,Male,FALSE,TRUE,delhi,Urinary Tract infection
+Ampicillin,38,FALSE,Male,TRUE,FALSE,noida,Soft Tissue Infection
+Aminoglycoside,56,FALSE,Male,TRUE,TRUE,noida,Pyogenic meningitis
+carbapenem,49,TRUE,Female,FALSE,TRUE,kanpur,Abdominal infection/Peritonitis
+Linezolid,44,TRUE,Female,TRUE,TRUE,ghaziabad,Bones and Joints Sepsis
+Clindamycin,70,FALSE,Male,FALSE,FALSE,gurgaon,Upper/Lower Respiratory Tract Infection
+Metronidazole,46,FALSE,Male,FALSE,TRUE,lucknow,Urinary Tract infection
+Amoxycillin,41,TRUE,Male,FALSE,FALSE,raipur,Soft Tissue Infection
+Piperacillin,48,FALSE,Female,FALSE,FALSE,bhubhaneshwar,Pyogenic meningitis
+Fluoroquinolone,48,TRUE,Female,TRUE,FALSE,srinagar,Abdominal infection/Peritonitis
+Ampicillin,15,FALSE,Male,TRUE,TRUE,srinagar,Bones and Joints Sepsis
+Aminoglycoside,40,FALSE,Male,TRUE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+carbapenem,40,TRUE,Male,FALSE,TRUE,delhi,Urinary Tract infection
+Linezolid,13,FALSE,Male,FALSE,FALSE,delhi,Soft Tissue Infection
+Clindamycin,62,FALSE,Female,FALSE,FALSE,noida,Pyogenic meningitis
+Metronidazole,7,FALSE,Male,TRUE,FALSE,noida,Abdominal infection/Peritonitis
+Amoxycillin,53,FALSE,Female,TRUE,FALSE,kanpur,Bones and Joints Sepsis
+Piperacillin,22,TRUE,Female,TRUE,TRUE,ghaziabad,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,14,FALSE,Male,TRUE,FALSE,gurgaon,Urinary Tract infection
+Ampicillin,29,TRUE,Male,TRUE,TRUE,lucknow,Soft Tissue Infection
+Aminoglycoside,39,FALSE,Female,TRUE,TRUE,raipur,Pyogenic meningitis
+carbapenem,67,TRUE,Male,FALSE,FALSE,bhubhaneshwar,Abdominal infection/Peritonitis
+Linezolid,10,TRUE,Male,TRUE,TRUE,srinagar,Bones and Joints Sepsis
+Clindamycin,49,FALSE,Female,FALSE,FALSE,srinagar,Upper/Lower Respiratory Tract Infection
+Metronidazole,44,FALSE,Male,FALSE,FALSE,delhi,Urinary Tract infection
+Amoxycillin,31,FALSE,Male,TRUE,TRUE,delhi,Soft Tissue Infection
+Piperacillin,33,TRUE,Female,TRUE,FALSE,delhi,Pyogenic meningitis
+Fluoroquinolone,67,TRUE,Male,FALSE,TRUE,noida,Abdominal infection/Peritonitis
+Ampicillin,67,FALSE,Female,FALSE,TRUE,noida,Bones and Joints Sepsis
+Aminoglycoside,61,TRUE,Male,FALSE,TRUE,kanpur,Upper/Lower Respiratory Tract Infection
+carbapenem,30,TRUE,Female,TRUE,FALSE,ghaziabad,Urinary Tract infection
+Linezolid,45,TRUE,Female,FALSE,TRUE,gurgaon,Soft Tissue Infection
+Clindamycin,21,TRUE,Female,TRUE,TRUE,lucknow,Pyogenic meningitis
+Metronidazole,14,TRUE,Female,FALSE,TRUE,raipur,Abdominal infection/Peritonitis
+Amoxycillin,68,TRUE,Male,FALSE,FALSE,bhubhaneshwar,Bones and Joints Sepsis
+Piperacillin,24,TRUE,Female,TRUE,TRUE,srinagar,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,38,TRUE,Female,TRUE,TRUE,srinagar,Urinary Tract infection
+Ampicillin,31,TRUE,Female,FALSE,TRUE,delhi,Soft Tissue Infection
+Aminoglycoside,47,FALSE,Female,TRUE,TRUE,delhi,Pyogenic meningitis
+carbapenem,12,FALSE,Female,TRUE,TRUE,delhi,Abdominal infection/Peritonitis
+Linezolid,66,TRUE,Female,FALSE,TRUE,noida,Bones and Joints Sepsis
+Clindamycin,59,FALSE,Female,TRUE,TRUE,noida,Upper/Lower Respiratory Tract Infection
+Metronidazole,24,FALSE,Female,TRUE,TRUE,kanpur,Urinary Tract infection
+Amoxycillin,16,FALSE,Male,FALSE,FALSE,ghaziabad,Soft Tissue Infection
+Piperacillin,59,FALSE,Female,TRUE,TRUE,gurgaon,Pyogenic meningitis
+Fluoroquinolone,64,TRUE,Female,FALSE,FALSE,lucknow,Abdominal infection/Peritonitis
+Ampicillin,70,FALSE,Female,FALSE,FALSE,raipur,Bones and Joints Sepsis
+Aminoglycoside,64,TRUE,Male,TRUE,TRUE,bhubhaneshwar,Upper/Lower Respiratory Tract Infection
+carbapenem,39,FALSE,Female,TRUE,FALSE,srinagar,Urinary Tract infection
+Linezolid,59,TRUE,Male,FALSE,TRUE,srinagar,Soft Tissue Infection
+Clindamycin,68,TRUE,Male,TRUE,TRUE,delhi,Pyogenic meningitis
+Metronidazole,14,TRUE,Female,TRUE,FALSE,delhi,Abdominal infection/Peritonitis
+Amoxycillin,44,FALSE,Male,TRUE,FALSE,delhi,Bones and Joints Sepsis
+Piperacillin,14,FALSE,Male,FALSE,TRUE,noida,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,24,FALSE,Male,FALSE,TRUE,noida,Urinary Tract infection
+Ampicillin,18,TRUE,Male,TRUE,FALSE,kanpur,Soft Tissue Infection
+Aminoglycoside,28,TRUE,Female,TRUE,FALSE,ghaziabad,Pyogenic meningitis
+carbapenem,7,FALSE,Male,TRUE,FALSE,gurgaon,Abdominal infection/Peritonitis
+Linezolid,65,TRUE,Female,FALSE,TRUE,lucknow,Bones and Joints Sepsis
+Clindamycin,34,TRUE,Male,FALSE,TRUE,raipur,Upper/Lower Respiratory Tract Infection
+Metronidazole,19,TRUE,Female,FALSE,FALSE,bhubhaneshwar,Urinary Tract infection
+Amoxycillin,64,FALSE,Male,TRUE,FALSE,srinagar,Soft Tissue Infection
+Piperacillin,59,TRUE,Male,TRUE,FALSE,srinagar,Pyogenic meningitis
+Fluoroquinolone,17,TRUE,Male,FALSE,TRUE,delhi,Abdominal infection/Peritonitis
+Ampicillin,44,FALSE,Female,TRUE,FALSE,delhi,Bones and Joints Sepsis
+Aminoglycoside,39,FALSE,Male,FALSE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+carbapenem,47,FALSE,Female,FALSE,FALSE,noida,Urinary Tract infection
+Linezolid,7,TRUE,Female,TRUE,TRUE,noida,Soft Tissue Infection
+Clindamycin,54,FALSE,Male,FALSE,TRUE,kanpur,Pyogenic meningitis
+Metronidazole,30,FALSE,Male,FALSE,TRUE,ghaziabad,Abdominal infection/Peritonitis
+Amoxycillin,37,FALSE,Male,TRUE,FALSE,gurgaon,Bones and Joints Sepsis
+Piperacillin,56,TRUE,Male,FALSE,TRUE,lucknow,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,12,TRUE,Female,TRUE,FALSE,raipur,Urinary Tract infection
+Ampicillin,9,TRUE,Female,FALSE,TRUE,bhubhaneshwar,Soft Tissue Infection
+Aminoglycoside,69,TRUE,Male,FALSE,TRUE,srinagar,Pyogenic meningitis
+carbapenem,53,TRUE,Female,FALSE,TRUE,srinagar,Abdominal infection/Peritonitis
+Linezolid,20,FALSE,Female,TRUE,TRUE,delhi,Bones and Joints Sepsis
+Clindamycin,53,FALSE,Female,TRUE,FALSE,delhi,Upper/Lower Respiratory Tract Infection
+Metronidazole,59,TRUE,Female,TRUE,TRUE,delhi,Urinary Tract infection
+Amoxycillin,55,TRUE,Male,TRUE,TRUE,noida,Soft Tissue Infection
+Piperacillin,19,FALSE,Male,TRUE,FALSE,noida,Pyogenic meningitis
+Fluoroquinolone,64,FALSE,Male,TRUE,FALSE,kanpur,Abdominal infection/Peritonitis
+Ampicillin,52,TRUE,Male,FALSE,FALSE,ghaziabad,Bones and Joints Sepsis
+Aminoglycoside,56,FALSE,Male,FALSE,TRUE,gurgaon,Upper/Lower Respiratory Tract Infection
+carbapenem,18,FALSE,Male,FALSE,FALSE,lucknow,Urinary Tract infection
+Linezolid,27,TRUE,Female,FALSE,TRUE,raipur,Soft Tissue Infection
+Clindamycin,63,FALSE,Female,FALSE,FALSE,bhubhaneshwar,Pyogenic meningitis
+Metronidazole,39,FALSE,Male,FALSE,FALSE,srinagar,Abdominal infection/Peritonitis
+Amoxycillin,37,FALSE,Female,FALSE,TRUE,srinagar,Bones and Joints Sepsis
+Piperacillin,65,TRUE,Male,FALSE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,34,FALSE,Female,FALSE,FALSE,delhi,Urinary Tract infection
+Ampicillin,41,FALSE,Male,FALSE,FALSE,delhi,Soft Tissue Infection
+Aminoglycoside,27,TRUE,Female,FALSE,FALSE,noida,Pyogenic meningitis
+carbapenem,15,TRUE,Male,FALSE,FALSE,noida,Abdominal infection/Peritonitis
+Linezolid,29,TRUE,Female,FALSE,FALSE,kanpur,Bones and Joints Sepsis
+Clindamycin,56,FALSE,Male,FALSE,TRUE,ghaziabad,Upper/Lower Respiratory Tract Infection
+Metronidazole,31,FALSE,Male,TRUE,TRUE,gurgaon,Urinary Tract infection
+Amoxycillin,21,TRUE,Male,TRUE,TRUE,lucknow,Soft Tissue Infection
+Piperacillin,66,TRUE,Female,TRUE,FALSE,raipur,Pyogenic meningitis
+Fluoroquinolone,28,TRUE,Male,TRUE,FALSE,bhubhaneshwar,Abdominal infection/Peritonitis
+Ampicillin,11,FALSE,Male,FALSE,FALSE,srinagar,Bones and Joints Sepsis
+Aminoglycoside,43,TRUE,Female,TRUE,TRUE,srinagar,Upper/Lower Respiratory Tract Infection
+carbapenem,20,TRUE,Male,TRUE,TRUE,delhi,Urinary Tract infection
+Linezolid,12,FALSE,Female,FALSE,FALSE,delhi,Soft Tissue Infection
+Clindamycin,53,FALSE,Male,FALSE,FALSE,delhi,Pyogenic meningitis
+Metronidazole,39,TRUE,Female,FALSE,FALSE,noida,Abdominal infection/Peritonitis
+Amoxycillin,55,TRUE,Male,FALSE,TRUE,noida,Bones and Joints Sepsis
+Piperacillin,67,FALSE,Male,FALSE,FALSE,kanpur,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,27,TRUE,Female,TRUE,FALSE,ghaziabad,Urinary Tract infection
+Ampicillin,23,TRUE,Male,FALSE,FALSE,gurgaon,Soft Tissue Infection
+Aminoglycoside,62,FALSE,Male,FALSE,TRUE,lucknow,Pyogenic meningitis
+carbapenem,32,FALSE,Female,FALSE,FALSE,raipur,Abdominal infection/Peritonitis
+Linezolid,23,FALSE,Female,TRUE,FALSE,bhubhaneshwar,Bones and Joints Sepsis
+Clindamycin,65,TRUE,Male,TRUE,FALSE,srinagar,Upper/Lower Respiratory Tract Infection
+Metronidazole,46,TRUE,Male,FALSE,TRUE,srinagar,Urinary Tract infection
+Amoxycillin,21,TRUE,Female,TRUE,TRUE,delhi,Soft Tissue Infection
+Piperacillin,66,TRUE,Male,FALSE,FALSE,delhi,Pyogenic meningitis
+Fluoroquinolone,70,FALSE,Male,FALSE,TRUE,delhi,Abdominal infection/Peritonitis
+Ampicillin,59,TRUE,Male,TRUE,TRUE,noida,Bones and Joints Sepsis
+Aminoglycoside,60,TRUE,Female,TRUE,FALSE,noida,Upper/Lower Respiratory Tract Infection
+carbapenem,33,FALSE,Female,FALSE,TRUE,kanpur,Urinary Tract infection
+Linezolid,36,FALSE,Female,TRUE,TRUE,ghaziabad,Soft Tissue Infection
+Clindamycin,36,FALSE,Male,TRUE,FALSE,gurgaon,Pyogenic meningitis
+Metronidazole,23,TRUE,Female,TRUE,FALSE,lucknow,Abdominal infection/Peritonitis
+Amoxycillin,25,FALSE,Female,TRUE,TRUE,raipur,Bones and Joints Sepsis
+Piperacillin,15,FALSE,Male,FALSE,FALSE,bhubhaneshwar,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,14,FALSE,Female,TRUE,FALSE,srinagar,Urinary Tract infection
+Ampicillin,22,TRUE,Male,TRUE,FALSE,srinagar,Soft Tissue Infection
+Aminoglycoside,7,FALSE,Male,FALSE,TRUE,delhi,Pyogenic meningitis
+carbapenem,68,FALSE,Female,FALSE,FALSE,delhi,Abdominal infection/Peritonitis
+Linezolid,65,FALSE,Female,TRUE,TRUE,delhi,Bones and Joints Sepsis
+Clindamycin,20,TRUE,Male,FALSE,TRUE,noida,Upper/Lower Respiratory Tract Infection
+Metronidazole,34,TRUE,Female,FALSE,TRUE,noida,Urinary Tract infection
+Amoxycillin,48,FALSE,Male,FALSE,FALSE,kanpur,Soft Tissue Infection
+Piperacillin,27,TRUE,Male,FALSE,FALSE,ghaziabad,Pyogenic meningitis
+Fluoroquinolone,24,FALSE,Male,TRUE,FALSE,gurgaon,Abdominal infection/Peritonitis
+Ampicillin,42,TRUE,Female,FALSE,FALSE,lucknow,Bones and Joints Sepsis
+Aminoglycoside,48,FALSE,Male,FALSE,FALSE,raipur,Upper/Lower Respiratory Tract Infection
+carbapenem,43,FALSE,Female,FALSE,TRUE,bhubhaneshwar,Urinary Tract infection
+Linezolid,41,TRUE,Male,TRUE,TRUE,srinagar,Soft Tissue Infection
+Clindamycin,32,FALSE,Male,TRUE,FALSE,srinagar,Pyogenic meningitis
+Metronidazole,65,TRUE,Female,FALSE,FALSE,delhi,Abdominal infection/Peritonitis
+Amoxycillin,15,FALSE,Male,FALSE,TRUE,delhi,Bones and Joints Sepsis
+Piperacillin,16,TRUE,Female,FALSE,FALSE,delhi,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,38,FALSE,Female,FALSE,TRUE,noida,Urinary Tract infection
+Ampicillin,63,TRUE,Male,TRUE,TRUE,noida,Soft Tissue Infection
+Aminoglycoside,12,TRUE,Female,TRUE,TRUE,kanpur,Pyogenic meningitis
+carbapenem,63,TRUE,Male,FALSE,FALSE,ghaziabad,Abdominal infection/Peritonitis
+Linezolid,47,FALSE,Male,FALSE,TRUE,gurgaon,Bones and Joints Sepsis
+Clindamycin,49,TRUE,Male,FALSE,TRUE,lucknow,Upper/Lower Respiratory Tract Infection
+Metronidazole,34,TRUE,Female,FALSE,FALSE,raipur,Urinary Tract infection
+Amoxycillin,60,TRUE,Male,FALSE,FALSE,bhubhaneshwar,Soft Tissue Infection
+Piperacillin,53,TRUE,Female,TRUE,TRUE,srinagar,Pyogenic meningitis
+Fluoroquinolone,38,TRUE,Female,FALSE,FALSE,srinagar,Abdominal infection/Peritonitis
+Ampicillin,65,FALSE,Female,TRUE,FALSE,delhi,Bones and Joints Sepsis
+Aminoglycoside,49,FALSE,Male,TRUE,FALSE,delhi,Upper/Lower Respiratory Tract Infection
+carbapenem,52,TRUE,Male,FALSE,FALSE,delhi,Urinary Tract infection
+Linezolid,16,FALSE,Female,FALSE,TRUE,noida,Soft Tissue Infection
+Clindamycin,51,TRUE,Male,TRUE,TRUE,noida,Pyogenic meningitis
+Metronidazole,7,FALSE,Female,FALSE,FALSE,kanpur,Abdominal infection/Peritonitis
+Amoxycillin,11,FALSE,Female,FALSE,FALSE,ghaziabad,Bones and Joints Sepsis
+Piperacillin,67,TRUE,Male,FALSE,FALSE,gurgaon,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,58,TRUE,Female,TRUE,TRUE,lucknow,Urinary Tract infection
+Ampicillin,36,TRUE,Female,TRUE,TRUE,raipur,Soft Tissue Infection
+Aminoglycoside,67,FALSE,Male,TRUE,TRUE,bhubhaneshwar,Pyogenic meningitis
+carbapenem,40,TRUE,Female,TRUE,FALSE,srinagar,Abdominal infection/Peritonitis
+Linezolid,58,TRUE,Female,TRUE,TRUE,srinagar,Bones and Joints Sepsis
+Clindamycin,45,FALSE,Male,TRUE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+Metronidazole,12,TRUE,Male,TRUE,TRUE,delhi,Urinary Tract infection
+Amoxycillin,14,FALSE,Male,FALSE,TRUE,delhi,Soft Tissue Infection
+Piperacillin,56,TRUE,Male,TRUE,TRUE,noida,Pyogenic meningitis
+Fluoroquinolone,60,FALSE,Female,FALSE,TRUE,noida,Abdominal infection/Peritonitis
+Ampicillin,40,TRUE,Male,TRUE,FALSE,kanpur,Bones and Joints Sepsis
+Aminoglycoside,27,FALSE,Female,TRUE,FALSE,ghaziabad,Upper/Lower Respiratory Tract Infection
+carbapenem,56,FALSE,Male,FALSE,TRUE,gurgaon,Urinary Tract infection
+Linezolid,66,TRUE,Female,FALSE,TRUE,lucknow,Soft Tissue Infection
+Clindamycin,20,TRUE,Male,FALSE,FALSE,raipur,Pyogenic meningitis
+Metronidazole,44,FALSE,Male,FALSE,TRUE,bhubhaneshwar,Abdominal infection/Peritonitis
+Amoxycillin,66,FALSE,Male,FALSE,TRUE,srinagar,Bones and Joints Sepsis
+Piperacillin,58,FALSE,Male,FALSE,TRUE,srinagar,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,36,TRUE,Female,TRUE,FALSE,delhi,Urinary Tract infection
+Ampicillin,9,FALSE,Male,FALSE,FALSE,delhi,Soft Tissue Infection
+Aminoglycoside,69,FALSE,Male,TRUE,TRUE,delhi,Pyogenic meningitis
+carbapenem,57,TRUE,Male,FALSE,TRUE,noida,Abdominal infection/Peritonitis
+Linezolid,62,FALSE,Male,FALSE,TRUE,noida,Bones and Joints Sepsis
+Clindamycin,23,TRUE,Female,TRUE,FALSE,kanpur,Upper/Lower Respiratory Tract Infection
+Metronidazole,10,TRUE,Male,TRUE,FALSE,ghaziabad,Urinary Tract infection
+Amoxycillin,64,TRUE,Female,FALSE,FALSE,gurgaon,Soft Tissue Infection
+Piperacillin,59,FALSE,Male,FALSE,FALSE,lucknow,Pyogenic meningitis
+Fluoroquinolone,53,TRUE,Male,TRUE,TRUE,raipur,Abdominal infection/Peritonitis
+Ampicillin,41,TRUE,Female,TRUE,TRUE,bhubhaneshwar,Bones and Joints Sepsis
+Aminoglycoside,27,FALSE,Male,FALSE,FALSE,srinagar,Upper/Lower Respiratory Tract Infection
+carbapenem,39,TRUE,Female,TRUE,FALSE,srinagar,Urinary Tract infection
+Linezolid,58,TRUE,Female,FALSE,FALSE,delhi,Soft Tissue Infection
+Clindamycin,22,TRUE,Male,FALSE,FALSE,delhi,Pyogenic meningitis
+Metronidazole,39,FALSE,Female,TRUE,TRUE,delhi,Abdominal infection/Peritonitis
+Amoxycillin,58,FALSE,Male,FALSE,TRUE,noida,Bones and Joints Sepsis
+Piperacillin,29,TRUE,Female,FALSE,TRUE,noida,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,45,TRUE,Male,FALSE,TRUE,kanpur,Urinary Tract infection
+Ampicillin,47,TRUE,Male,TRUE,TRUE,ghaziabad,Soft Tissue Infection
+Aminoglycoside,26,TRUE,Female,FALSE,TRUE,gurgaon,Pyogenic meningitis
+carbapenem,39,TRUE,Male,TRUE,TRUE,lucknow,Abdominal infection/Peritonitis
+Linezolid,8,FALSE,Female,TRUE,FALSE,raipur,Bones and Joints Sepsis
+Clindamycin,65,FALSE,Male,FALSE,TRUE,bhubhaneshwar,Upper/Lower Respiratory Tract Infection
+Metronidazole,50,TRUE,Female,FALSE,FALSE,srinagar,Urinary Tract infection
+Amoxycillin,13,TRUE,Male,TRUE,TRUE,srinagar,Soft Tissue Infection
+Piperacillin,65,FALSE,Male,TRUE,FALSE,delhi,Pyogenic meningitis
+Fluoroquinolone,52,TRUE,Female,TRUE,FALSE,delhi,Abdominal infection/Peritonitis
+Ampicillin,51,FALSE,Male,FALSE,TRUE,delhi,Bones and Joints Sepsis
+Aminoglycoside,51,TRUE,Female,TRUE,FALSE,noida,Upper/Lower Respiratory Tract Infection
+carbapenem,65,TRUE,Male,FALSE,TRUE,noida,Urinary Tract infection
+Linezolid,11,TRUE,Male,TRUE,FALSE,kanpur,Soft Tissue Infection
+Clindamycin,23,TRUE,Male,TRUE,FALSE,ghaziabad,Pyogenic meningitis
+Metronidazole,69,FALSE,Male,FALSE,FALSE,gurgaon,Abdominal infection/Peritonitis
+Amoxycillin,48,TRUE,Male,FALSE,FALSE,lucknow,Bones and Joints Sepsis
+Piperacillin,31,FALSE,Male,TRUE,TRUE,raipur,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,38,TRUE,Male,TRUE,FALSE,bhubhaneshwar,Urinary Tract infection
+Ampicillin,64,FALSE,Female,FALSE,TRUE,srinagar,Soft Tissue Infection
+Aminoglycoside,50,TRUE,Male,FALSE,TRUE,srinagar,Pyogenic meningitis
+carbapenem,50,FALSE,Female,FALSE,FALSE,delhi,Abdominal infection/Peritonitis
+Linezolid,68,FALSE,Female,FALSE,TRUE,delhi,Bones and Joints Sepsis
+Clindamycin,25,FALSE,Female,TRUE,FALSE,delhi,Upper/Lower Respiratory Tract Infection
+Metronidazole,42,FALSE,Male,TRUE,TRUE,noida,Urinary Tract infection
+Amoxycillin,19,TRUE,Male,FALSE,FALSE,noida,Soft Tissue Infection
+Piperacillin,21,TRUE,Female,TRUE,TRUE,kanpur,Pyogenic meningitis
+Fluoroquinolone,8,TRUE,Female,FALSE,FALSE,ghaziabad,Abdominal infection/Peritonitis
+Ampicillin,51,TRUE,Female,FALSE,FALSE,gurgaon,Bones and Joints Sepsis
+Aminoglycoside,40,TRUE,Female,FALSE,FALSE,lucknow,Upper/Lower Respiratory Tract Infection
+carbapenem,51,TRUE,Female,TRUE,FALSE,raipur,Urinary Tract infection
+Linezolid,42,TRUE,Female,FALSE,TRUE,bhubhaneshwar,Soft Tissue Infection
+Clindamycin,55,FALSE,Male,FALSE,FALSE,srinagar,Pyogenic meningitis
+Metronidazole,45,FALSE,Female,FALSE,TRUE,srinagar,Abdominal infection/Peritonitis
+Amoxycillin,31,FALSE,Female,FALSE,FALSE,delhi,Bones and Joints Sepsis
+Piperacillin,33,TRUE,Female,TRUE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,14,FALSE,Female,FALSE,TRUE,delhi,Urinary Tract infection
+Ampicillin,70,TRUE,Male,TRUE,TRUE,noida,Soft Tissue Infection
+Aminoglycoside,24,TRUE,Male,FALSE,FALSE,noida,Pyogenic meningitis
+carbapenem,29,TRUE,Male,TRUE,TRUE,kanpur,Abdominal infection/Peritonitis
+Linezolid,41,FALSE,Female,FALSE,FALSE,ghaziabad,Bones and Joints Sepsis
+Clindamycin,51,FALSE,Female,FALSE,FALSE,gurgaon,Upper/Lower Respiratory Tract Infection
+Metronidazole,44,TRUE,Female,FALSE,FALSE,lucknow,Urinary Tract infection
+Amoxycillin,54,TRUE,Male,TRUE,TRUE,raipur,Soft Tissue Infection
+Piperacillin,35,FALSE,Male,FALSE,TRUE,bhubhaneshwar,Pyogenic meningitis
+Fluoroquinolone,19,FALSE,Female,TRUE,TRUE,srinagar,Abdominal infection/Peritonitis
+Ampicillin,42,TRUE,Female,FALSE,TRUE,srinagar,Bones and Joints Sepsis
+Aminoglycoside,55,FALSE,Male,TRUE,FALSE,delhi,Upper/Lower Respiratory Tract Infection
+carbapenem,7,FALSE,Male,TRUE,FALSE,delhi,Urinary Tract infection
+Linezolid,11,FALSE,Male,TRUE,TRUE,delhi,Soft Tissue Infection
+Clindamycin,64,FALSE,Male,FALSE,FALSE,noida,Pyogenic meningitis
+Metronidazole,53,TRUE,Male,FALSE,FALSE,noida,Abdominal infection/Peritonitis
+Amoxycillin,36,TRUE,Female,FALSE,TRUE,kanpur,Bones and Joints Sepsis
+Piperacillin,37,TRUE,Male,TRUE,FALSE,ghaziabad,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,12,FALSE,Male,FALSE,FALSE,gurgaon,Urinary Tract infection
+Ampicillin,30,TRUE,Male,TRUE,FALSE,lucknow,Soft Tissue Infection
+Aminoglycoside,70,TRUE,Male,FALSE,TRUE,raipur,Pyogenic meningitis
+carbapenem,61,TRUE,Male,FALSE,FALSE,bhubhaneshwar,Abdominal infection/Peritonitis
+Linezolid,53,TRUE,Male,TRUE,FALSE,srinagar,Bones and Joints Sepsis
+Clindamycin,64,FALSE,Female,TRUE,FALSE,srinagar,Upper/Lower Respiratory Tract Infection
+Metronidazole,30,FALSE,Male,TRUE,FALSE,delhi,Urinary Tract infection
+Amoxycillin,14,FALSE,Male,FALSE,TRUE,delhi,Soft Tissue Infection
+Piperacillin,13,TRUE,Female,FALSE,TRUE,delhi,Pyogenic meningitis
+Fluoroquinolone,43,FALSE,Male,FALSE,TRUE,noida,Abdominal infection/Peritonitis
+Ampicillin,33,TRUE,Female,TRUE,FALSE,noida,Bones and Joints Sepsis
+Aminoglycoside,17,FALSE,Male,FALSE,FALSE,kanpur,Upper/Lower Respiratory Tract Infection
+carbapenem,15,FALSE,Male,FALSE,TRUE,ghaziabad,Urinary Tract infection
+Linezolid,17,TRUE,Female,TRUE,TRUE,gurgaon,Soft Tissue Infection
+Clindamycin,38,TRUE,Female,FALSE,TRUE,lucknow,Pyogenic meningitis
+Metronidazole,49,TRUE,Female,TRUE,FALSE,raipur,Abdominal infection/Peritonitis
+Amoxycillin,12,FALSE,Female,FALSE,TRUE,bhubhaneshwar,Bones and Joints Sepsis
+Piperacillin,61,TRUE,Female,FALSE,FALSE,srinagar,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,61,FALSE,Male,FALSE,TRUE,srinagar,Urinary Tract infection
+Ampicillin,66,TRUE,Female,FALSE,TRUE,delhi,Soft Tissue Infection
+Aminoglycoside,36,TRUE,Female,FALSE,TRUE,delhi,Pyogenic meningitis
+carbapenem,67,TRUE,Male,FALSE,TRUE,delhi,Abdominal infection/Peritonitis
+Linezolid,10,FALSE,Female,TRUE,TRUE,noida,Bones and Joints Sepsis
+Clindamycin,15,FALSE,Female,TRUE,TRUE,noida,Upper/Lower Respiratory Tract Infection
+Metronidazole,18,FALSE,Female,TRUE,TRUE,kanpur,Urinary Tract infection
+Amoxycillin,32,FALSE,Female,TRUE,TRUE,ghaziabad,Soft Tissue Infection
+Piperacillin,7,FALSE,Female,TRUE,FALSE,gurgaon,Pyogenic meningitis
+Fluoroquinolone,7,FALSE,Male,TRUE,FALSE,lucknow,Abdominal infection/Peritonitis
+Ampicillin,68,FALSE,Male,TRUE,FALSE,raipur,Bones and Joints Sepsis
+Aminoglycoside,27,TRUE,Female,FALSE,TRUE,bhubhaneshwar,Upper/Lower Respiratory Tract Infection
+carbapenem,65,TRUE,Male,FALSE,TRUE,srinagar,Urinary Tract infection
+Linezolid,39,TRUE,Female,TRUE,TRUE,srinagar,Soft Tissue Infection
+Clindamycin,50,FALSE,Male,TRUE,FALSE,delhi,Pyogenic meningitis
+Metronidazole,36,TRUE,Male,FALSE,FALSE,delhi,Abdominal infection/Peritonitis
+Amoxycillin,68,TRUE,Male,FALSE,TRUE,delhi,Bones and Joints Sepsis
+Piperacillin,38,TRUE,Male,TRUE,FALSE,noida,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,35,FALSE,Male,FALSE,TRUE,noida,Urinary Tract infection
+Ampicillin,53,TRUE,Male,FALSE,TRUE,kanpur,Soft Tissue Infection
+Aminoglycoside,63,TRUE,Female,TRUE,TRUE,ghaziabad,Pyogenic meningitis
+carbapenem,24,TRUE,Male,FALSE,FALSE,gurgaon,Abdominal infection/Peritonitis
+Linezolid,47,TRUE,Female,FALSE,TRUE,lucknow,Bones and Joints Sepsis
+Clindamycin,37,FALSE,Female,TRUE,FALSE,raipur,Upper/Lower Respiratory Tract Infection
+Metronidazole,55,FALSE,Female,TRUE,FALSE,bhubhaneshwar,Urinary Tract infection
+Amoxycillin,30,FALSE,Male,TRUE,FALSE,srinagar,Soft Tissue Infection
+Piperacillin,21,FALSE,Male,TRUE,TRUE,srinagar,Pyogenic meningitis
+Fluoroquinolone,30,FALSE,Female,TRUE,TRUE,delhi,Abdominal infection/Peritonitis
+Ampicillin,32,TRUE,Male,FALSE,FALSE,delhi,Bones and Joints Sepsis
+Aminoglycoside,29,FALSE,Male,FALSE,FALSE,delhi,Upper/Lower Respiratory Tract Infection
+carbapenem,39,FALSE,Male,TRUE,FALSE,noida,Urinary Tract infection
+Linezolid,28,FALSE,Male,FALSE,TRUE,noida,Soft Tissue Infection
+Clindamycin,57,FALSE,Male,FALSE,TRUE,kanpur,Pyogenic meningitis
+Metronidazole,42,TRUE,Female,FALSE,TRUE,ghaziabad,Abdominal infection/Peritonitis
+Amoxycillin,63,FALSE,Female,FALSE,FALSE,gurgaon,Bones and Joints Sepsis
+Piperacillin,26,TRUE,Female,FALSE,TRUE,lucknow,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,27,FALSE,Male,FALSE,TRUE,raipur,Urinary Tract infection
+Ampicillin,20,TRUE,Female,TRUE,FALSE,bhubhaneshwar,Soft Tissue Infection
+Aminoglycoside,11,FALSE,Male,TRUE,FALSE,srinagar,Pyogenic meningitis
+carbapenem,23,FALSE,Female,TRUE,TRUE,srinagar,Abdominal infection/Peritonitis
+Linezolid,10,FALSE,Female,TRUE,FALSE,delhi,Bones and Joints Sepsis
+Clindamycin,62,TRUE,Male,FALSE,FALSE,delhi,Upper/Lower Respiratory Tract Infection
+Metronidazole,60,FALSE,Male,FALSE,FALSE,delhi,Urinary Tract infection
+Amoxycillin,46,TRUE,Male,FALSE,FALSE,noida,Soft Tissue Infection
+Piperacillin,43,TRUE,Female,TRUE,FALSE,noida,Pyogenic meningitis
+Fluoroquinolone,48,TRUE,Female,TRUE,FALSE,kanpur,Abdominal infection/Peritonitis
+Ampicillin,20,TRUE,Female,FALSE,FALSE,ghaziabad,Bones and Joints Sepsis
+Aminoglycoside,52,TRUE,Female,TRUE,FALSE,gurgaon,Upper/Lower Respiratory Tract Infection
+carbapenem,49,FALSE,Female,FALSE,TRUE,lucknow,Urinary Tract infection
+Linezolid,60,FALSE,Female,FALSE,TRUE,raipur,Soft Tissue Infection
+Clindamycin,27,FALSE,Female,TRUE,FALSE,bhubhaneshwar,Pyogenic meningitis
+Metronidazole,56,FALSE,Female,FALSE,TRUE,srinagar,Abdominal infection/Peritonitis
+Amoxycillin,70,FALSE,Female,TRUE,TRUE,srinagar,Bones and Joints Sepsis
+Piperacillin,48,TRUE,Male,FALSE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,49,TRUE,Male,FALSE,TRUE,delhi,Urinary Tract infection
+Ampicillin,57,FALSE,Male,FALSE,TRUE,delhi,Soft Tissue Infection
+Aminoglycoside,37,FALSE,Female,FALSE,TRUE,noida,Pyogenic meningitis
+carbapenem,25,FALSE,Female,FALSE,TRUE,noida,Abdominal infection/Peritonitis
+Linezolid,30,TRUE,Male,FALSE,TRUE,kanpur,Bones and Joints Sepsis
+Clindamycin,31,TRUE,Female,FALSE,FALSE,ghaziabad,Upper/Lower Respiratory Tract Infection
+Metronidazole,38,FALSE,Male,FALSE,FALSE,gurgaon,Urinary Tract infection
+Amoxycillin,32,FALSE,Male,TRUE,FALSE,lucknow,Soft Tissue Infection
+Piperacillin,60,FALSE,Female,TRUE,TRUE,raipur,Pyogenic meningitis
+Fluoroquinolone,43,FALSE,Female,FALSE,TRUE,bhubhaneshwar,Abdominal infection/Peritonitis
+Ampicillin,40,TRUE,Female,TRUE,FALSE,srinagar,Bones and Joints Sepsis
+Aminoglycoside,45,FALSE,Female,TRUE,TRUE,srinagar,Upper/Lower Respiratory Tract Infection
+carbapenem,23,TRUE,Male,FALSE,FALSE,delhi,Urinary Tract infection
+Linezolid,38,TRUE,Female,TRUE,FALSE,delhi,Soft Tissue Infection
+Clindamycin,63,TRUE,Male,FALSE,FALSE,delhi,Pyogenic meningitis
+Metronidazole,41,FALSE,Female,TRUE,FALSE,noida,Abdominal infection/Peritonitis
+Amoxycillin,68,TRUE,Female,FALSE,FALSE,noida,Bones and Joints Sepsis
+Piperacillin,41,TRUE,Male,TRUE,FALSE,kanpur,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,29,FALSE,Male,TRUE,TRUE,ghaziabad,Urinary Tract infection
+Ampicillin,32,FALSE,Female,TRUE,TRUE,gurgaon,Soft Tissue Infection
+Aminoglycoside,27,FALSE,Female,FALSE,TRUE,lucknow,Pyogenic meningitis
+carbapenem,45,FALSE,Female,TRUE,TRUE,raipur,Abdominal infection/Peritonitis
+Linezolid,66,FALSE,Male,FALSE,FALSE,bhubhaneshwar,Bones and Joints Sepsis
+Clindamycin,56,FALSE,Male,TRUE,TRUE,srinagar,Upper/Lower Respiratory Tract Infection
+Metronidazole,22,TRUE,Male,TRUE,TRUE,srinagar,Urinary Tract infection
+Amoxycillin,13,FALSE,Female,FALSE,FALSE,delhi,Soft Tissue Infection
+Piperacillin,67,FALSE,Male,FALSE,FALSE,delhi,Pyogenic meningitis
+Fluoroquinolone,38,FALSE,Female,FALSE,FALSE,delhi,Abdominal infection/Peritonitis
+Ampicillin,10,TRUE,Male,TRUE,FALSE,noida,Bones and Joints Sepsis
+Aminoglycoside,17,FALSE,Male,FALSE,FALSE,noida,Upper/Lower Respiratory Tract Infection
+carbapenem,7,TRUE,Female,FALSE,FALSE,kanpur,Urinary Tract infection
+Linezolid,51,TRUE,Female,TRUE,FALSE,ghaziabad,Soft Tissue Infection
+Clindamycin,58,TRUE,Male,FALSE,TRUE,gurgaon,Pyogenic meningitis
+Metronidazole,24,TRUE,Male,FALSE,FALSE,lucknow,Abdominal infection/Peritonitis
+Amoxycillin,68,TRUE,Female,FALSE,FALSE,raipur,Bones and Joints Sepsis
+Piperacillin,62,FALSE,Male,TRUE,FALSE,bhubhaneshwar,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,70,TRUE,Male,FALSE,FALSE,srinagar,Urinary Tract infection
+Ampicillin,70,TRUE,Female,TRUE,TRUE,srinagar,Soft Tissue Infection
+Aminoglycoside,48,FALSE,Male,TRUE,FALSE,delhi,Pyogenic meningitis
+carbapenem,63,TRUE,Male,FALSE,FALSE,delhi,Abdominal infection/Peritonitis
+Linezolid,69,TRUE,Male,FALSE,FALSE,delhi,Bones and Joints Sepsis
+Clindamycin,46,TRUE,Female,TRUE,TRUE,noida,Upper/Lower Respiratory Tract Infection
+Metronidazole,25,FALSE,Female,FALSE,TRUE,noida,Urinary Tract infection
+Amoxycillin,61,FALSE,Female,FALSE,FALSE,kanpur,Soft Tissue Infection
+Piperacillin,37,FALSE,Female,TRUE,FALSE,ghaziabad,Pyogenic meningitis
+Fluoroquinolone,59,TRUE,Male,TRUE,FALSE,gurgaon,Abdominal infection/Peritonitis
+Ampicillin,58,FALSE,Male,TRUE,FALSE,lucknow,Bones and Joints Sepsis
+Aminoglycoside,37,FALSE,Female,FALSE,FALSE,raipur,Upper/Lower Respiratory Tract Infection
+carbapenem,10,FALSE,Male,TRUE,FALSE,bhubhaneshwar,Urinary Tract infection
+Linezolid,41,TRUE,Male,FALSE,TRUE,srinagar,Soft Tissue Infection
+Clindamycin,13,TRUE,Female,FALSE,TRUE,srinagar,Pyogenic meningitis
+Metronidazole,60,FALSE,Male,FALSE,TRUE,delhi,Abdominal infection/Peritonitis
+Amoxycillin,68,TRUE,Female,TRUE,TRUE,delhi,Bones and Joints Sepsis
+Piperacillin,63,TRUE,Male,TRUE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,17,FALSE,Female,FALSE,FALSE,noida,Urinary Tract infection
+Ampicillin,45,TRUE,Male,FALSE,TRUE,noida,Soft Tissue Infection
+Aminoglycoside,30,FALSE,Male,FALSE,TRUE,kanpur,Pyogenic meningitis
+carbapenem,42,TRUE,Female,TRUE,FALSE,ghaziabad,Abdominal infection/Peritonitis
+Linezolid,39,FALSE,Female,TRUE,FALSE,gurgaon,Bones and Joints Sepsis
+Clindamycin,59,FALSE,Male,FALSE,FALSE,lucknow,Upper/Lower Respiratory Tract Infection
+Metronidazole,8,FALSE,Male,TRUE,TRUE,raipur,Urinary Tract infection
+Amoxycillin,18,TRUE,Male,FALSE,TRUE,bhubhaneshwar,Soft Tissue Infection
+Piperacillin,69,FALSE,Female,FALSE,TRUE,srinagar,Pyogenic meningitis
+Fluoroquinolone,10,FALSE,Male,FALSE,TRUE,srinagar,Abdominal infection/Peritonitis
+Ampicillin,10,FALSE,Male,FALSE,FALSE,delhi,Bones and Joints Sepsis
+Aminoglycoside,13,FALSE,Female,TRUE,FALSE,delhi,Upper/Lower Respiratory Tract Infection
+carbapenem,25,FALSE,Female,FALSE,FALSE,delhi,Urinary Tract infection
+Linezolid,64,TRUE,Male,FALSE,TRUE,noida,Soft Tissue Infection
+Clindamycin,36,FALSE,Female,FALSE,FALSE,noida,Pyogenic meningitis
+Metronidazole,21,FALSE,Female,TRUE,FALSE,kanpur,Abdominal infection/Peritonitis
+Amoxycillin,67,TRUE,Male,TRUE,FALSE,ghaziabad,Bones and Joints Sepsis
+Piperacillin,58,FALSE,Female,TRUE,FALSE,gurgaon,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,25,FALSE,Female,TRUE,FALSE,lucknow,Urinary Tract infection
+Ampicillin,42,TRUE,Male,TRUE,FALSE,raipur,Soft Tissue Infection
+Aminoglycoside,39,TRUE,Female,FALSE,FALSE,bhubhaneshwar,Pyogenic meningitis
+carbapenem,68,FALSE,Male,FALSE,FALSE,srinagar,Abdominal infection/Peritonitis
+Linezolid,36,FALSE,Male,TRUE,TRUE,srinagar,Bones and Joints Sepsis
+Clindamycin,40,TRUE,Female,FALSE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+Metronidazole,61,FALSE,Female,FALSE,FALSE,delhi,Urinary Tract infection
+Amoxycillin,21,FALSE,Male,FALSE,FALSE,delhi,Soft Tissue Infection
+Piperacillin,46,FALSE,Male,FALSE,FALSE,noida,Pyogenic meningitis
+Fluoroquinolone,22,TRUE,Female,TRUE,FALSE,noida,Abdominal infection/Peritonitis
+Ampicillin,33,TRUE,Female,TRUE,TRUE,kanpur,Bones and Joints Sepsis
+Aminoglycoside,37,TRUE,Female,FALSE,FALSE,ghaziabad,Upper/Lower Respiratory Tract Infection
+carbapenem,21,TRUE,Female,FALSE,TRUE,gurgaon,Urinary Tract infection
+Linezolid,44,TRUE,Male,TRUE,TRUE,lucknow,Soft Tissue Infection
+Clindamycin,19,TRUE,Female,FALSE,FALSE,raipur,Pyogenic meningitis
+Metronidazole,62,FALSE,Male,FALSE,TRUE,bhubhaneshwar,Abdominal infection/Peritonitis
+Amoxycillin,10,FALSE,Male,FALSE,FALSE,srinagar,Bones and Joints Sepsis
+Piperacillin,33,TRUE,Female,TRUE,FALSE,srinagar,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,68,FALSE,Male,FALSE,TRUE,delhi,Urinary Tract infection
+Ampicillin,33,FALSE,Male,TRUE,TRUE,delhi,Soft Tissue Infection
+Aminoglycoside,65,FALSE,Female,TRUE,TRUE,delhi,Pyogenic meningitis
+carbapenem,18,FALSE,Male,TRUE,FALSE,noida,Abdominal infection/Peritonitis
+Linezolid,18,TRUE,Male,FALSE,TRUE,noida,Bones and Joints Sepsis
+Clindamycin,27,FALSE,Male,FALSE,TRUE,kanpur,Upper/Lower Respiratory Tract Infection
+Metronidazole,52,FALSE,Male,FALSE,TRUE,ghaziabad,Urinary Tract infection
+Amoxycillin,48,FALSE,Male,FALSE,TRUE,gurgaon,Soft Tissue Infection
+Piperacillin,8,FALSE,Male,FALSE,TRUE,lucknow,Pyogenic meningitis
+Fluoroquinolone,40,TRUE,Male,FALSE,TRUE,raipur,Abdominal infection/Peritonitis
+Ampicillin,17,TRUE,Female,TRUE,FALSE,bhubhaneshwar,Bones and Joints Sepsis
+Aminoglycoside,36,FALSE,Male,TRUE,FALSE,srinagar,Upper/Lower Respiratory Tract Infection
+carbapenem,25,TRUE,Female,TRUE,FALSE,srinagar,Urinary Tract infection
+Linezolid,55,FALSE,Female,TRUE,TRUE,delhi,Soft Tissue Infection
+Clindamycin,54,FALSE,Male,FALSE,TRUE,delhi,Pyogenic meningitis
+Metronidazole,16,FALSE,Female,TRUE,TRUE,delhi,Abdominal infection/Peritonitis
+Amoxycillin,31,FALSE,Male,FALSE,TRUE,noida,Bones and Joints Sepsis
+Piperacillin,42,TRUE,Male,TRUE,FALSE,noida,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,36,TRUE,Female,TRUE,FALSE,kanpur,Urinary Tract infection
+Ampicillin,19,FALSE,Female,FALSE,FALSE,ghaziabad,Soft Tissue Infection
+Aminoglycoside,13,TRUE,Female,FALSE,TRUE,gurgaon,Pyogenic meningitis
+carbapenem,30,FALSE,Female,FALSE,FALSE,lucknow,Abdominal infection/Peritonitis
+Linezolid,14,FALSE,Female,TRUE,FALSE,raipur,Bones and Joints Sepsis
+Clindamycin,36,TRUE,Male,TRUE,FALSE,bhubhaneshwar,Upper/Lower Respiratory Tract Infection
+Metronidazole,11,FALSE,Female,FALSE,TRUE,srinagar,Urinary Tract infection
+Amoxycillin,58,FALSE,Male,FALSE,TRUE,srinagar,Soft Tissue Infection
+Piperacillin,20,FALSE,Male,FALSE,FALSE,delhi,Pyogenic meningitis
+Fluoroquinolone,31,TRUE,Female,TRUE,TRUE,delhi,Abdominal infection/Peritonitis
+Ampicillin,13,TRUE,Female,FALSE,TRUE,delhi,Bones and Joints Sepsis
+Aminoglycoside,49,TRUE,Female,FALSE,TRUE,noida,Upper/Lower Respiratory Tract Infection
+carbapenem,63,FALSE,Female,FALSE,TRUE,noida,Urinary Tract infection
+Linezolid,65,FALSE,Female,FALSE,FALSE,kanpur,Soft Tissue Infection
+Clindamycin,42,TRUE,Male,TRUE,TRUE,ghaziabad,Pyogenic meningitis
+Metronidazole,7,FALSE,Female,TRUE,FALSE,gurgaon,Abdominal infection/Peritonitis
+Amoxycillin,18,TRUE,Female,FALSE,TRUE,lucknow,Bones and Joints Sepsis
+Piperacillin,59,TRUE,Male,TRUE,FALSE,raipur,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,64,FALSE,Male,TRUE,TRUE,bhubhaneshwar,Urinary Tract infection
+Ampicillin,39,FALSE,Male,TRUE,TRUE,srinagar,Soft Tissue Infection
+Aminoglycoside,17,FALSE,Male,TRUE,FALSE,srinagar,Pyogenic meningitis
+carbapenem,55,FALSE,Female,FALSE,FALSE,delhi,Abdominal infection/Peritonitis
+Linezolid,64,TRUE,Male,TRUE,TRUE,delhi,Bones and Joints Sepsis
+Clindamycin,8,FALSE,Female,FALSE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+Metronidazole,64,TRUE,Female,TRUE,TRUE,noida,Urinary Tract infection
+Amoxycillin,20,FALSE,Male,TRUE,FALSE,noida,Soft Tissue Infection
+Piperacillin,17,TRUE,Female,TRUE,FALSE,kanpur,Pyogenic meningitis
+Fluoroquinolone,10,TRUE,Female,TRUE,FALSE,ghaziabad,Abdominal infection/Peritonitis
+Ampicillin,27,TRUE,Female,FALSE,FALSE,gurgaon,Bones and Joints Sepsis
+Aminoglycoside,38,FALSE,Male,TRUE,FALSE,lucknow,Upper/Lower Respiratory Tract Infection
+carbapenem,53,FALSE,Female,FALSE,TRUE,raipur,Urinary Tract infection
+Linezolid,63,TRUE,Female,FALSE,FALSE,bhubhaneshwar,Soft Tissue Infection
+Clindamycin,22,FALSE,Male,FALSE,TRUE,srinagar,Pyogenic meningitis
+Metronidazole,47,FALSE,Female,TRUE,FALSE,srinagar,Abdominal infection/Peritonitis
+Amoxycillin,57,FALSE,Female,TRUE,TRUE,delhi,Bones and Joints Sepsis
+Piperacillin,38,FALSE,Female,TRUE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,62,TRUE,Female,FALSE,TRUE,delhi,Urinary Tract infection
+Ampicillin,27,FALSE,Female,FALSE,TRUE,noida,Soft Tissue Infection
+Aminoglycoside,38,TRUE,Male,TRUE,FALSE,noida,Pyogenic meningitis
+carbapenem,24,TRUE,Female,TRUE,FALSE,kanpur,Abdominal infection/Peritonitis
+Linezolid,67,FALSE,Female,FALSE,TRUE,ghaziabad,Bones and Joints Sepsis
+Clindamycin,44,TRUE,Male,TRUE,FALSE,gurgaon,Upper/Lower Respiratory Tract Infection
+Metronidazole,51,FALSE,Female,FALSE,FALSE,lucknow,Urinary Tract infection
+Amoxycillin,31,FALSE,Male,FALSE,FALSE,raipur,Soft Tissue Infection
+Piperacillin,53,TRUE,Male,TRUE,TRUE,bhubhaneshwar,Pyogenic meningitis
+Fluoroquinolone,70,TRUE,Female,FALSE,FALSE,srinagar,Abdominal infection/Peritonitis
+Ampicillin,19,FALSE,Male,TRUE,TRUE,srinagar,Bones and Joints Sepsis
+Aminoglycoside,44,FALSE,Male,FALSE,FALSE,delhi,Upper/Lower Respiratory Tract Infection
+carbapenem,23,FALSE,Female,FALSE,FALSE,delhi,Urinary Tract infection
+Linezolid,63,TRUE,Male,TRUE,FALSE,delhi,Soft Tissue Infection
+Clindamycin,21,TRUE,Male,FALSE,TRUE,noida,Pyogenic meningitis
+Metronidazole,64,FALSE,Female,FALSE,FALSE,noida,Abdominal infection/Peritonitis
+Amoxycillin,11,TRUE,Male,TRUE,TRUE,kanpur,Bones and Joints Sepsis
+Piperacillin,42,FALSE,Male,FALSE,FALSE,ghaziabad,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,31,FALSE,Female,TRUE,TRUE,gurgaon,Urinary Tract infection
+Ampicillin,26,FALSE,Male,FALSE,TRUE,lucknow,Soft Tissue Infection
+Aminoglycoside,7,FALSE,Female,FALSE,TRUE,raipur,Pyogenic meningitis
+carbapenem,63,FALSE,Female,TRUE,TRUE,bhubhaneshwar,Abdominal infection/Peritonitis
+Linezolid,10,FALSE,Female,FALSE,FALSE,srinagar,Bones and Joints Sepsis
+Clindamycin,19,FALSE,Male,TRUE,FALSE,srinagar,Upper/Lower Respiratory Tract Infection
+Metronidazole,7,TRUE,Female,TRUE,TRUE,delhi,Urinary Tract infection
+Amoxycillin,66,FALSE,Female,TRUE,FALSE,delhi,Soft Tissue Infection
+Piperacillin,33,TRUE,Female,TRUE,TRUE,delhi,Pyogenic meningitis
+Fluoroquinolone,60,TRUE,Female,TRUE,TRUE,noida,Abdominal infection/Peritonitis
+Ampicillin,50,TRUE,Female,FALSE,TRUE,noida,Bones and Joints Sepsis
+Aminoglycoside,25,TRUE,Male,FALSE,FALSE,kanpur,Upper/Lower Respiratory Tract Infection
+carbapenem,69,FALSE,Male,FALSE,FALSE,ghaziabad,Urinary Tract infection
+Linezolid,41,FALSE,Male,TRUE,FALSE,gurgaon,Soft Tissue Infection
+Clindamycin,28,TRUE,Female,TRUE,TRUE,lucknow,Pyogenic meningitis
+Metronidazole,41,FALSE,Female,FALSE,TRUE,raipur,Abdominal infection/Peritonitis
+Amoxycillin,60,FALSE,Male,TRUE,FALSE,bhubhaneshwar,Bones and Joints Sepsis
+Piperacillin,16,FALSE,Male,FALSE,TRUE,srinagar,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,15,TRUE,Female,FALSE,FALSE,srinagar,Urinary Tract infection
+Ampicillin,49,TRUE,Male,FALSE,FALSE,delhi,Soft Tissue Infection
+Aminoglycoside,15,TRUE,Male,TRUE,TRUE,delhi,Pyogenic meningitis
+carbapenem,24,TRUE,Female,FALSE,TRUE,delhi,Abdominal infection/Peritonitis
+Linezolid,47,TRUE,Male,FALSE,TRUE,noida,Bones and Joints Sepsis
+Clindamycin,50,TRUE,Male,FALSE,FALSE,noida,Upper/Lower Respiratory Tract Infection
+Metronidazole,33,TRUE,Female,FALSE,TRUE,kanpur,Urinary Tract infection
+Amoxycillin,55,FALSE,Male,TRUE,FALSE,ghaziabad,Soft Tissue Infection
+Piperacillin,37,FALSE,Male,FALSE,TRUE,gurgaon,Pyogenic meningitis
+Fluoroquinolone,33,TRUE,Female,TRUE,FALSE,lucknow,Abdominal infection/Peritonitis
+Ampicillin,47,FALSE,Male,TRUE,FALSE,raipur,Bones and Joints Sepsis
+Aminoglycoside,37,FALSE,Male,FALSE,TRUE,bhubhaneshwar,Upper/Lower Respiratory Tract Infection
+carbapenem,45,FALSE,Female,FALSE,FALSE,srinagar,Urinary Tract infection
+Linezolid,65,FALSE,Male,TRUE,TRUE,srinagar,Soft Tissue Infection
+Clindamycin,53,FALSE,Male,FALSE,FALSE,delhi,Pyogenic meningitis
+Metronidazole,68,FALSE,Female,TRUE,FALSE,delhi,Abdominal infection/Peritonitis
+Amoxycillin,24,TRUE,Male,TRUE,TRUE,delhi,Bones and Joints Sepsis
+Piperacillin,7,TRUE,Female,FALSE,TRUE,noida,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,61,TRUE,Male,TRUE,FALSE,noida,Urinary Tract infection
+Ampicillin,61,TRUE,Male,FALSE,FALSE,kanpur,Soft Tissue Infection
+Aminoglycoside,16,TRUE,Male,FALSE,FALSE,ghaziabad,Pyogenic meningitis
+carbapenem,20,TRUE,Female,TRUE,FALSE,gurgaon,Abdominal infection/Peritonitis
+Linezolid,38,TRUE,Female,FALSE,TRUE,lucknow,Bones and Joints Sepsis
+Clindamycin,9,FALSE,Female,FALSE,TRUE,raipur,Upper/Lower Respiratory Tract Infection
+Metronidazole,15,FALSE,Female,TRUE,TRUE,bhubhaneshwar,Urinary Tract infection
+Amoxycillin,20,TRUE,Female,TRUE,FALSE,srinagar,Soft Tissue Infection
+Piperacillin,64,TRUE,Female,FALSE,TRUE,srinagar,Pyogenic meningitis
+Fluoroquinolone,55,FALSE,Female,TRUE,TRUE,delhi,Abdominal infection/Peritonitis
+Ampicillin,23,FALSE,Female,FALSE,TRUE,delhi,Bones and Joints Sepsis
+Aminoglycoside,14,TRUE,Female,TRUE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+carbapenem,40,FALSE,Female,TRUE,TRUE,noida,Urinary Tract infection
+Linezolid,13,FALSE,Male,TRUE,TRUE,noida,Soft Tissue Infection
+Clindamycin,52,FALSE,Male,TRUE,FALSE,kanpur,Pyogenic meningitis
+Metronidazole,11,TRUE,Female,TRUE,FALSE,ghaziabad,Abdominal infection/Peritonitis
+Amoxycillin,17,FALSE,Female,TRUE,TRUE,gurgaon,Bones and Joints Sepsis
+Piperacillin,19,FALSE,Male,TRUE,FALSE,lucknow,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,51,FALSE,Male,FALSE,TRUE,raipur,Urinary Tract infection
+Ampicillin,27,TRUE,Male,FALSE,FALSE,bhubhaneshwar,Soft Tissue Infection
+Aminoglycoside,58,TRUE,Female,TRUE,FALSE,srinagar,Pyogenic meningitis
+carbapenem,48,FALSE,Male,FALSE,TRUE,srinagar,Abdominal infection/Peritonitis
+Linezolid,54,TRUE,Male,FALSE,TRUE,delhi,Bones and Joints Sepsis
+Clindamycin,28,TRUE,Male,FALSE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+Metronidazole,28,TRUE,Male,FALSE,TRUE,delhi,Urinary Tract infection
+Amoxycillin,32,TRUE,Female,TRUE,FALSE,noida,Soft Tissue Infection
+Piperacillin,31,FALSE,Female,FALSE,TRUE,noida,Pyogenic meningitis
+Fluoroquinolone,48,FALSE,Female,TRUE,FALSE,kanpur,Abdominal infection/Peritonitis
+Ampicillin,24,TRUE,Male,FALSE,TRUE,ghaziabad,Bones and Joints Sepsis
+Aminoglycoside,17,TRUE,Male,FALSE,FALSE,gurgaon,Upper/Lower Respiratory Tract Infection
+carbapenem,30,TRUE,Female,TRUE,FALSE,lucknow,Urinary Tract infection
+Linezolid,47,FALSE,Male,TRUE,TRUE,raipur,Soft Tissue Infection
+Clindamycin,18,FALSE,Male,TRUE,TRUE,bhubhaneshwar,Pyogenic meningitis
+Metronidazole,31,TRUE,Male,FALSE,FALSE,srinagar,Abdominal infection/Peritonitis
+Amoxycillin,48,TRUE,Male,FALSE,TRUE,srinagar,Bones and Joints Sepsis
+Piperacillin,39,FALSE,Female,FALSE,FALSE,delhi,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,20,FALSE,Female,FALSE,FALSE,delhi,Urinary Tract infection
+Ampicillin,32,FALSE,Male,TRUE,TRUE,delhi,Soft Tissue Infection
+Aminoglycoside,55,TRUE,Female,FALSE,TRUE,noida,Pyogenic meningitis
+carbapenem,24,TRUE,Female,TRUE,FALSE,noida,Abdominal infection/Peritonitis
+Linezolid,57,TRUE,Male,FALSE,TRUE,kanpur,Bones and Joints Sepsis
+Clindamycin,10,FALSE,Female,FALSE,TRUE,ghaziabad,Upper/Lower Respiratory Tract Infection
+Metronidazole,32,TRUE,Female,TRUE,TRUE,gurgaon,Urinary Tract infection
+Amoxycillin,22,FALSE,Female,TRUE,FALSE,lucknow,Soft Tissue Infection
+Piperacillin,37,FALSE,Female,FALSE,TRUE,raipur,Pyogenic meningitis
+Fluoroquinolone,8,FALSE,Female,TRUE,FALSE,bhubhaneshwar,Abdominal infection/Peritonitis
+Ampicillin,64,FALSE,Male,TRUE,FALSE,srinagar,Bones and Joints Sepsis
+Aminoglycoside,40,FALSE,Male,FALSE,FALSE,srinagar,Upper/Lower Respiratory Tract Infection
+carbapenem,18,TRUE,Female,TRUE,FALSE,delhi,Urinary Tract infection
+Linezolid,10,TRUE,Male,FALSE,FALSE,delhi,Soft Tissue Infection
+Clindamycin,35,FALSE,Male,TRUE,TRUE,delhi,Pyogenic meningitis
+Metronidazole,32,FALSE,Male,FALSE,TRUE,noida,Abdominal infection/Peritonitis
+Amoxycillin,18,FALSE,Female,TRUE,FALSE,noida,Bones and Joints Sepsis
+Piperacillin,49,FALSE,Female,FALSE,FALSE,kanpur,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,26,FALSE,Female,FALSE,TRUE,ghaziabad,Urinary Tract infection
+Ampicillin,49,FALSE,Male,FALSE,FALSE,gurgaon,Soft Tissue Infection
+Aminoglycoside,60,TRUE,Male,TRUE,TRUE,lucknow,Pyogenic meningitis
+carbapenem,58,TRUE,Male,TRUE,TRUE,raipur,Abdominal infection/Peritonitis
+Linezolid,64,TRUE,Male,FALSE,TRUE,bhubhaneshwar,Bones and Joints Sepsis
+Clindamycin,28,TRUE,Female,FALSE,TRUE,srinagar,Upper/Lower Respiratory Tract Infection
+Metronidazole,13,TRUE,Female,TRUE,FALSE,srinagar,Urinary Tract infection
+Amoxycillin,70,TRUE,Female,TRUE,TRUE,delhi,Soft Tissue Infection
+Piperacillin,49,TRUE,Male,FALSE,TRUE,delhi,Pyogenic meningitis
+Fluoroquinolone,55,TRUE,Male,FALSE,FALSE,delhi,Abdominal infection/Peritonitis
+Ampicillin,46,TRUE,Male,TRUE,TRUE,noida,Bones and Joints Sepsis
+Aminoglycoside,36,TRUE,Female,TRUE,TRUE,noida,Upper/Lower Respiratory Tract Infection
+carbapenem,34,FALSE,Male,TRUE,TRUE,kanpur,Urinary Tract infection
+Linezolid,67,FALSE,Female,FALSE,TRUE,ghaziabad,Soft Tissue Infection
+Clindamycin,69,TRUE,Male,FALSE,TRUE,gurgaon,Pyogenic meningitis
+Metronidazole,67,TRUE,Male,TRUE,FALSE,lucknow,Abdominal infection/Peritonitis
+Amoxycillin,64,TRUE,Male,FALSE,FALSE,raipur,Bones and Joints Sepsis
+Piperacillin,27,TRUE,Male,FALSE,TRUE,bhubhaneshwar,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,27,FALSE,Female,FALSE,TRUE,srinagar,Urinary Tract infection
+Ampicillin,24,TRUE,Male,TRUE,FALSE,srinagar,Soft Tissue Infection
+Aminoglycoside,42,TRUE,Female,TRUE,FALSE,delhi,Pyogenic meningitis
+carbapenem,41,TRUE,Female,FALSE,FALSE,delhi,Abdominal infection/Peritonitis
+Linezolid,35,FALSE,Male,FALSE,FALSE,delhi,Bones and Joints Sepsis
+Clindamycin,41,TRUE,Female,TRUE,TRUE,noida,Upper/Lower Respiratory Tract Infection
+Metronidazole,12,TRUE,Male,FALSE,TRUE,noida,Urinary Tract infection
+Amoxycillin,38,TRUE,Female,TRUE,FALSE,kanpur,Soft Tissue Infection
+Piperacillin,52,TRUE,Female,TRUE,FALSE,ghaziabad,Pyogenic meningitis
+Fluoroquinolone,35,TRUE,Male,TRUE,FALSE,gurgaon,Abdominal infection/Peritonitis
+Ampicillin,47,FALSE,Female,TRUE,TRUE,lucknow,Bones and Joints Sepsis
+Aminoglycoside,42,TRUE,Male,TRUE,FALSE,raipur,Upper/Lower Respiratory Tract Infection
+carbapenem,18,TRUE,Male,FALSE,TRUE,bhubhaneshwar,Urinary Tract infection
+Linezolid,57,FALSE,Male,TRUE,FALSE,srinagar,Soft Tissue Infection
+Clindamycin,58,FALSE,Male,FALSE,TRUE,srinagar,Pyogenic meningitis
+Metronidazole,25,FALSE,Female,FALSE,FALSE,delhi,Abdominal infection/Peritonitis
+Amoxycillin,30,FALSE,Female,FALSE,TRUE,delhi,Bones and Joints Sepsis
+Piperacillin,59,FALSE,Female,FALSE,TRUE,delhi,Upper/Lower Respiratory Tract Infection
+Fluoroquinolone,57,TRUE,Female,FALSE,FALSE,noida,Urinary Tract infection
+Ampicillin,67,TRUE,Male,TRUE,FALSE,noida,Soft Tissue Infection
+Aminoglycoside,25,TRUE,Female,TRUE,TRUE,kanpur,Pyogenic meningitis
+carbapenem,27,TRUE,Male,TRUE,FALSE,ghaziabad,Abdominal infection/Peritonitis
+Linezolid,43,FALSE,Female,FALSE,TRUE,gurgaon,Bones and Joints Sepsis
+Clindamycin,13,TRUE,Female,FALSE,FALSE,lucknow,Upper/Lower Respiratory Tract Infection
+Metronidazole,51,TRUE,Male,TRUE,TRUE,raipur,Urinary Tract infection
+Amoxycillin,37,FALSE,Female,TRUE,TRUE,bhubhaneshwar,Soft Tissue Infection
+Piperacillin,52,TRUE,Male,TRUE,FALSE,srinagar,Pyogenic meningitis

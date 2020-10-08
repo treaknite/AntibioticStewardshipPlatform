@@ -1,0 +1,941 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/d3js/5.15.0/d3.min.js"></script> 
+  
+
+  <title>Medicine</title>
+
+ <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/layout.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+   
+
+  <script type="text/javascript">
+  //  function incrementValue()
+//{
+   // var value = parseInt(document.getElementById('vo').value, 10);
+   // value = isNaN(value) ? 0 : value;
+   // value++;
+   // document.getElementById('vo').value = value;
+//}
+    
+    function disabledcheckbox(){
+      document.getElementById("mio").disabled=true;
+    }
+    function enablecheckbox(){
+      document.getElementById("mio").disabled=false;
+
+    }
+      
+
+
+      
+  
+var citiesByState = {
+Fluoroquinolone: ["Urinary Tract infection"],
+Piperacillin: ["Soft Tissue Infection","Upper/Lower Respiratory Tract Infection","Pyogenic meningitis","Abdominal infection","Bones and Joints Sepsis"],
+Amoxycillin: ["Upper/Lower Respiratory Tract Infection","Soft Tissue Infection"],
+Aminoglycoside: ["Urinary Tract infection","Pyogenic meningitis"],
+Ampicillin: ["Upper/Lower Respiratory Tract Infection","Soft Tissue Infection"],
+Carbapenum: ["Abdominal infection","Bones and Joints Sepsis"],
+Linezolid: ["Pyogenic meningitis","Abdominal infection/Peritonitis","Bones and Joints Sepsis","Upper/Lower Respiratory Tract Infection"],
+Cephalosporin: ["Urinary Tract infection"],
+Metronidazol: ["Pyogenic meningitis"],
+Clindamycin: ["Urinary Tract infection"],
+Azithromycine: ["Upper/Lower Respiratory Tract Infection"],
+Clarithromycin: ["Pyogenic meningitis"],
+Erythromycin: ["Urinary Tract infection"],
+Penicillins: ["Upper/Lower Respiratory Tract Infection"],
+Cephdosporems: ["Bones and Joints Sepsis"],
+Monobactums: ["Pyogenic meningitis"],
+Carbopenum: ["Urinary Tract infection"],
+Doxycylin: ["Upper/Lower Respiratory Tract Infection"],
+Ninocycline: ["Bones and Joints Sepsis"],
+Tigecycline: ["Pyogenic meningitis"],
+Oxazolidinone: ["Urinary Tract infection"],
+Teicopiamin: ["Upper/Lower Respiratory Tract Infection"],
+Vancomycin: ["Bones and Joints Sepsis"],
+Gentamycine: ["Pyogenic meningitis"],
+Polymyxin: ["Urinary Tract infection"],
+Colistine: ["Upper/Lower Respiratory Tract Infection"],
+Deptomycine: ["Bones and Joints Sepsis"],
+Streptamycine: ["Pyogenic meningitis"],
+Manurol: ["Urinary Tract infection"],
+Cindamycine: ["Upper/Lower Respiratory Tract Infection"],
+lincomycine: ["Pyogenic meningitis"],
+Lincocin: ["Urinary Tract infection"],
+Cotrimoxazole: ["Upper/Lower Respiratory Tract Infection"],
+Sulfadrug: ["Bones and Joints Sepsis"],
+Sulfadicezine: ["Pyogenic meningitis"],
+Norfloxacine: ["Urinary Tract infection"],
+Ofloxocine: ["Upper/Lower Respiratory Tract Infection"],
+Ciprofloxocine: ["Bones and Joints Sepsis"],
+Leavofloxacine: ["Pyogenic meningitis"],
+Moxifloxicine: ["Urinary Tract infection"],
+Rifampicin: ["Upper/Lower Respiratory Tract Infection"],
+Macrobid: ["Pyogenic meningitis"],
+Macrodantin: ["Urinary Tract infection"],
+Nitromacro: ["Upper/Lower Respiratory Tract Infection"],
+none: ["None"]
+}
+
+var citiesState = {
+  Agra: ["Uttar pradesh"],
+  Ghaziabad: ["Uttar pradesh"],
+  Kanpur: ["Uttar pradesh"],
+  Mainpuri: ["Uttar pradesh"],
+  Meerut: ["Uttar pradesh"],
+  Lucknow: ["Uttar pradesh"],
+  Haridwar: ["Uttarakhand"],
+  Dehradun: ["Uttarakhand"],
+  Kolkata: ["West Bengal"],
+  Kharagpur: ["West Bengal"],
+  Chennai: ["Tamil Nadu"],
+  Kanchipuram: ["Tamil Nadu"],
+  Jaipur: ["Rajasthan"],
+  Jaisalmer: ["Rajasthan"],
+  Mumbai: ["Maharashtra"],
+  Nagpur: ["Maharashtra"],
+  Pune: ["Maharashtra"],
+  Bhopal: ["Madhya Pradesh"],
+  Guna: ["Madhya Pradesh"],
+  Delhi:["Delhi"]
+}
+function makemenu(value) {
+if(value.length==0) document.getElementById("go").innerHTML = "<option></option>";
+else {
+var citiesOptions = "";
+for(cityId in citiesState[value]) {
+citiesOptions+="<option>"+citiesState[value][cityId]+"</option>";
+}
+document.getElementById("go").innerHTML = citiesOptions;
+}
+}
+function displaySelected() { var country = document.getElementById("country").value;
+var city = document.getElementById("go").value;
+alert(country+"\n"+city);
+}
+function resetSelection() {
+document.getElementById("country").selectedIndex = 0;
+document.getElementById("go").selectedIndex = 0;
+}
+
+
+
+function makeSubmenu(value) {
+if(value.length==0) document.getElementById("citySelect").innerHTML = "<option></option>";
+else {
+var citiesOptions = "";
+for(cityId in citiesByState[value]) {
+citiesOptions+="<option>"+citiesByState[value][cityId]+"</option>";
+}
+document.getElementById("citySelect").innerHTML = citiesOptions;
+}
+}
+function displaySelected() { var country = document.getElementById("countrySelect").value;
+var city = document.getElementById("citySelect").value;
+alert(country+"\n"+city);
+}
+function resetSelection() {
+document.getElementById("countrySelect").selectedIndex = 0;
+document.getElementById("citySelect").selectedIndex = 0;
+}
+function pawan(value) {
+if(value.length==0) document.getElementById("naman").innerHTML = "<option></option>";
+else {
+var citiesOptions = "";
+for(cityId in citiesByState[value]) {
+citiesOptions+="<option>"+citiesByState[value][cityId]+"</option>";
+}
+document.getElementById("naman").innerHTML = citiesOptions;
+}
+}
+function displaySelected() { var country = document.getElementById("om").value;
+var city = document.getElementById("naman").value;
+alert(country+"\n"+city);
+}
+function resetSelection() {
+document.getElementById("om").selectedIndex = 0;
+document.getElementById("naman").selectedIndex = 0;
+}
+function makeSub(value) {
+if(value.length==0) document.getElementById("gola").innerHTML = "<option></option>";
+else {
+var citiesOptions = "";
+for(cityId in citiesByState[value]) {
+citiesOptions+="<option>"+citiesByState[value][cityId]+"</option>";
+}
+document.getElementById("gola").innerHTML = citiesOptions;
+}
+}
+function displaySelected() { var country = document.getElementById("countrySelect").value;
+var city = document.getElementById("gola").value;
+alert(country+"\n"+city);
+}
+function resetSelection() {
+document.getElementById("noinoi").selectedIndex = 0;
+document.getElementById("gola").selectedIndex = 0;
+}
+function make(value) {
+if(value.length==0) document.getElementById("gol").innerHTML = "<option></option>";
+else {
+var citiesOptions = "";
+for(cityId in citiesByState[value]) {
+citiesOptions+="<option>"+citiesByState[value][cityId]+"</option>";
+}
+document.getElementById("gol").innerHTML = citiesOptions;
+}
+}
+function displaySelected() { var country = document.getElementById("countrySelect").value;
+var city = document.getElementById("gol").value;
+alert(country+"\n"+city);
+}
+function resetSelection() {
+document.getElementById("noi").selectedIndex = 0;
+document.getElementById("gol").selectedIndex = 0;
+}
+
+
+
+
+
+</script>
+  <style type="text/css">
+    
+     @import url('https://fonts.googleapis.com/css?family=Averia+Serif+Libre|Bubblegum+Sans|Caveat+Brush|Chewy|Lobster+Two');
+
+
+body {
+  background-image: url(5.png);
+  background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+* ===== NAVIGATION ======*/
+.navbar {
+    border: 1px solid black;
+    z-index: 9999;
+    letter-spacing: 4px;
+}
+.logo {
+    display: block;
+    height: auto;
+    width: 52px;
+    padding-top: 5px;
+    margin-right:15px;
+}
+
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px; /* firefox bug fix */
+  width: auto;
+}
+.navbar .nav > li > a {
+  line-height: 50px;
+}
+
+.navbar-header h1 {
+    letter-spacing: 1px;
+    color: black !important;
+    font-family: 'Lobster Two', cursive;
+}
+
+.navbar li a, .navbar {
+    color: black !important;
+    font-size: 17px;
+    transition: all 0.6s 0s;
+}
+
+.navbar-toggle {
+    background-color:black;
+    border: 0;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: blue !important;
+}
+.item{
+      height: 80vh;
+      min-height: 200px;
+      background:no-repeat center center scroll;
+      -webkit-background-size:cover;
+      background-size:cover;
+    }
+    #main{
+      text-align:left;
+      font-family: sans-serif;
+      font-size:130%;
+
+
+    }
+#mono
+{
+  height: 25px;
+  margin-top: 20px;
+  width: 150px;
+  margin-left: 100px;
+}
+#countrySelect{
+  height: 25px;
+}
+#om{
+  height: 25px;
+}
+#naman{
+  height: 25px;
+}
+#noinoi{
+  height: 25px;
+  
+}
+#noi{
+  height: 25px;
+}
+#citySelect{
+  height: 25px;
+}
+#gola{
+  height: 25px;
+}
+#gol{
+  height: 25px;
+}
+#go{
+  height: 25px;
+}
+#country{
+  height: 25px;
+}
+#mon{
+  text-align: center;
+
+}
+#mo{
+  margin-left: 3px;
+}
+#no{
+  margin-left: 12px;
+}
+
+#vo{
+  margin-left: 12px;
+
+  height: 25px;
+  margin-top: 20px;
+  width: 150px;
+  margin-left: 100px;
+}
+
+
+
+
+button{
+  height: 50px;
+  background-color: blue;
+color: white;
+
+}
+hr{
+  
+}
+
+#h1{
+  margin-top: 80px;
+}
+
+
+h1{
+  text-align: center;
+  color: black;
+  font-style: italic;
+}
+
+select{
+  
+  width: 150px;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+
+
+
+
+  </style>
+
+
+
+</head>
+<body onload="resetSelection()"><nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse"
+                    data-target="#myNavbar">
+                <span class="glyphicon glyphicon-menu-hamburger"></span>
+            </button>
+           
+          
+         <div class="navbar-left logo"> 
+       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+   viewBox="0 0 291 385.3" style="enable-background:new 0 0 291 385.3;" xml:space="preserve">
+<style type="text/css">
+  .st0{fill:#000;}
+</style>
+<polygon class="st0" points="82.1,12 7.4,138.7 38.7,237.3 "/>
+<polygon class="st0" points="92.7,5.3 199.4,8.7 223.4,82.7 "/>
+<polygon class="st0" points="89.4,8.7 223.4,86.7 42.1,237.3 "/>
+<polygon class="st0" points="206.1,15.3 262.7,66 228.1,82.7 "/>
+<polygon class="st0" points="262.7,70 228.1,86 266.4,175.3 "/>
+<polygon class="st0" points="228.1,92.7 262.7,179.3 173.4,328 "/>
+<polygon class="st0" points="223.4,92.7 44.7,240 167.7,336 "/>
+<polygon class="st0" points="252.1,210.3 184.4,380.3 170.7,339.7 "/>
+<polygon class="st0" points="60.1,260.3 167.4,341 180.4,380.3 "/>
+</svg>
+          </div>
+    <h1 class="brand brand-name navbar-left"> 
+      <div class="navbar-left">Pharma Future
+      </h1>
+        </div>
+        <div class="collapse navbar-collapse navbar-right" id="myNavbar">
+            <ul class="nav navbar-nav">
+                <li><a href="main">Home</a></li>
+           <li><a href="login">Log Out</a></li>
+          
+            </ul>
+        </div>
+    </div>
+</div>
+</nav>
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+
+
+
+
+
+
+<div  id="main"class="container">
+
+    <form class="well form-horizontal" action="uploadrecordsub" method="post"  >
+      {% csrf_token %}
+
+
+
+<!-- Form Name -->
+<h1 id="h1"><ins>Patient's Antibiotic Record</ins></h1>
+<br>
+
+<div >
+<div>
+<div>
+ Patient Id&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input name="id" placeholder="Id" id="vo"  >
+    </div>
+  </div>
+</div>
+<br>
+<div >
+<div>
+<div>
+<table>
+  <tr>
+    <td>
+
+<!-- Text input-->
+First Antibiotic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <select id="countrySelect" name='antibiotic1'size="1" onchange="makeSubmenu(this.value)" >
+<option  value=""  disabled selected>antibiotic</option>
+ <option>Azithromycin</option>
+      <option>Clarithromycin</option>
+      <option >Erythromycin</option>
+      <option >Penicillin</option>
+      <option >Cephalosporin</option>
+      <option >Monobactam</option>
+      <option >Carbapenem</option>
+      <option >Doxycycline</option>
+      <option >Minocycline</option>
+      <option>Tigecycline</option>
+      <option >Oxazolidone</option>
+      <option >Teicoplanin</option>
+      <option >Vancomycin</option>
+      <option >Gentamicin</option>
+      <option >Polymyxin</option>
+      <option >Colistin</option>
+      <option>Deptomycin</option>
+      <option >Streptomycin</option>
+      <option >Monurol</option>
+      <option>Cindamycin</option>
+      <option >Lincocin</option>
+      <option> lincomycin</option>
+      <option >Cotrimoxazole</option>
+      <option >Sulfadiazine</option>
+      <option>Sulfadrug</option>
+      <option>Norfloxacin</option>
+      <option>Ofloxacin</option>
+      <option>Ciprofloxacin</option>
+      <option>Levofloxacin</option>
+      <option>Moxifloxicin</option>
+      <option>Rifampicin</option>
+      <option>Macrobid</option>
+      <option>Macrodantin</option>
+      <option>Nitromacro</option>
+      <option>none</option>
+</select>
+ <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Antibiotic_Group <select id="citySelect" name="ag_1" size="1" >
+<option value="" disabled selected>antibiotic group</option>
+<option></option>
+</select> -->
+<br>
+<br>
+
+<!-- <div > 
+   <div >
+    <div>
+  Days&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <input name="day_1" placeholder="Number of Days" id="mono" type="Number" min="1" max="21">
+    </div>
+  </div>
+</div> -->
+<br>
+</td>
+<td>
+<div > 
+    <div >
+      <div>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Antibiotic Resistance &nbsp;<select name="ar_1"  >
+      <option value=" Antibiotic Resistance" ></option>
+      <option>Non-Resistance</option>
+      <option>Resistance</option>
+    </select>
+  </div>
+</div>
+</div>
+<br>
+
+<br>
+</td>
+</tr>
+
+
+
+<tr>
+  <td>
+Second Antibiotic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <select id="noinoi" size="1" name="antibiotic2" onchange="makeSub(this.value)">
+ <option  value="" disabled selected>antibiotic</option>
+ <option>Azithromycin</option>
+      <option>Clarithromycin</option>
+      <option >Erythromycin</option>
+      <option >Penicillin</option>
+      <option >Cephalosporin</option>
+      <option >Monobactam</option>
+      <option >Carbapenem</option>
+      <option >Doxycycline</option>
+      <option >Minocycline</option>
+      <option>Tigecycline</option>
+      <option >Oxazolidone</option>
+      <option >Teicoplanin</option>
+      <option >Vancomycin</option>
+      <option >Gentamicin</option>
+      <option >Polymyxin</option>
+      <option >Colistin</option>
+      <option>Deptomycin</option>
+      <option >Streptomycin</option>
+      <option >Monurol</option>
+      <option>Cindamycin</option>
+      <option >Lincocin</option>
+      <option> lincomycin</option>
+      <option >Cotrimoxazole</option>
+      <option >Sulfadiazine</option>
+      <option>Sulfadrug</option>
+      <option>Norfloxacin</option>
+      <option>Ofloxacin</option>
+      <option>Ciprofloxacin</option>
+      <option>Levofloxacin</option>
+      <option>Moxifloxacin</option>
+      <option>Rifampicin</option>
+      <option>Macrobid</option>
+      <option>Macrodantin</option>
+      <option>Nitromacro</option>
+      <option>none</option>
+ 
+</select>
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antibiotic Group <select id="gola" name="ag_2" size="1" >
+<option value="" disabled selected>antibiotic group</option>
+<option></option>
+</select> -->
+<br>
+<br>
+
+<!-- 
+<div>
+<div>
+<div>
+  Days&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <input name="day_2" placeholder="Number of Days" id="mono"  type="Number" min="1" max="21">
+    </div>
+  </div>
+</div> -->
+<br>
+</td>
+<td>
+<div >
+<div>
+<div>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Antibiotic Resistance &nbsp;<select name="ar_2"  >
+      <option value=" Antibiotic Resistance" ></option>
+      <option>Non-Resistance</option>
+      <option>Resistance</option>
+    </select>
+  </div>
+</div>
+</div>
+<br>
+
+<br>
+</td>
+</tr>
+
+<tr>
+  <td>
+Third Antibiotic &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<select id="noi" size="1" name="antibiotic3" onchange="make(this.value)">
+<option  value="" disabled selected> antibiotic</option>
+ <option>Azithromycin</option>
+      <option>Clarithromycin</option>
+      <option >Erythromycin</option>
+      <option >Penicillin</option>
+      <option >Cephalosporin</option>
+      <option >Monobactam</option>
+      <option >Carbapenem</option>
+      <option >Doxycycline</option>
+      <option >Minocycline</option>
+      <option>Tigecycline</option>
+      <option >Oxazolidone</option>
+      <option >Teicoplanin</option>
+      <option >Vancomycin</option>
+      <option >Gentamicin</option>
+      <option >Polymyxin</option>
+      <option >Colistin</option>
+      <option>Deptomycin</option>
+      <option >Streptomycin</option>
+      <option >Monurol</option>
+      <option>Cindamycin</option>
+      <option >Lincocin</option>
+      <option> lincomycin</option>
+      <option >Cotrimoxazole</option>
+      <option >Sulfadiazine</option>
+      <option>Sulfadrug</option>
+      <option>Norfloxacin</option>
+      <option>Ofloxacin</option>
+      <option>Ciprofloxacin</option>
+      <option>Levofloxacin</option>
+      <option>Moxifloxacin</option>
+      <option>Rifampicin</option>
+      <option>Macrobid</option>
+      <option>Macrodantin</option>
+      <option>Nitromacro</option>
+      <option>none</option>
+</select>
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antibiotic Group <select id="gol" name="ag_3" size="1" >
+<option value="" disabled selected>antibiotic group</option>
+<option></option>
+</select> -->
+<br>
+<br>
+
+<br>
+</td>
+<td>
+<div >
+<div>
+<div>
+    &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Antibiotic Resistance <select name="ar_3"  >
+      <option value=" Antibiotic">  </option>
+      <option>Non-Resistance</option>
+      <option>Resistance</option>
+    </select>
+  </div>
+</div>
+</div>
+<br>
+
+<br>
+</td>
+</tr>
+
+<tr>
+  <td>
+Fouth Antibiotic &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<select id="om" size="1" name="antibiotic4" onchange="pawan(this.value)">
+<option  value="" disabled selected> antibiotic</option>
+ <option>Azithromycin</option>
+      <option>Clarithromycin</option>
+      <option >Erythromycin</option>
+      <option >Penicillin</option>
+      <option >Cephalosporin</option>
+      <option >Monobactam</option>
+      <option >Carbapenem</option>
+      <option >Doxycycline</option>
+      <option >Minocycline</option>
+      <option>Tigecycline</option>
+      <option >Oxazolidone</option>
+      <option >Teicoplanin</option>
+      <option >Vancomycin</option>
+      <option >Gentamicin</option>
+      <option >Polymyxin</option>
+      <option >Colistin</option>
+      <option>Deptomycin</option>
+      <option >Streptomycin</option>
+      <option >Monurol</option>
+      <option>Cindamycin</option>
+      <option >Lincocin</option>
+      <option> lincomycin</option>
+      <option >Cotrimoxazole</option>
+      <option >Sulfadiazine</option>
+      <option>Sulfadrug</option>
+      <option>Norfloxacin</option>
+      <option>Ofloxacin</option>
+      <option>Ciprofloxacin</option>
+      <option>Levofloxacin</option>
+      <option>Moxifloxaicin</option>
+      <option>Rifampicin</option>
+      <option>Macrobid</option>
+      <option>Macrodantin</option>
+      <option>Nitromacro</option>
+      <option>none</option>
+</select>
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antibiotic Group <select id="naman" name="ag_4" size="1" >
+<option value="" disabled selected>antibiotic group</option>
+<option></option>
+</select> -->
+<br>
+<br>
+<!-- <div>
+<div>
+<div>
+    Infection &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<select name="ar_3">
+      <option value=" Antibiotic"onchange="pawan(this.value)">  </option>
+      <option>Upper/Lower Respiratory Tract Infection
+</option>
+      <option>Urinary Tract infection
+</option>
+<option>Soft Tissue Infection
+
+</option>
+<option>Pyogenic meningitis
+
+</option>
+<option>Abdominal infection/Peritonitis
+
+</option>
+<option>Bones and Joints Sepsis
+
+
+</option>
+    </select>
+  </div>
+</div>
+</div>
+ -->
+<!-- <div>
+<div>
+<div>
+  Days&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input name="day_3" placeholder="Number of Days" id="mono"  type="Number" min="1" max="21">
+    </div>
+  </div>
+</div> -->
+
+<!-- <div > 
+   <div >
+    <div>
+  Days&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <input name="day_1" placeholder="Number of Days" id="mono" type="Number" min="1" max="21">
+    </div>
+  </div>
+</div> -->
+<br>
+</td>
+<td>
+<div > 
+    <div >
+      <div>
+    &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Antibiotic Resistance <select name="ar_4"  >
+      <option value=" Antibiotic Resistance" ></option>
+      <option>Non-Resistance</option>
+      <option>Resistance</option>
+    </select>
+  </div>
+</div>
+</div>
+<br>
+<br>
+</td>
+</tr>
+</table>
+ Infection &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<select name="in1">
+      <option value=" infection">  </option>
+      <option>Upper/Lower Respiratory Tract Infection
+</option>
+      <option>Urinary Tract infection
+</option>
+<option>Soft Tissue Infection
+
+</option>
+<option>Pyogenic meningitis
+
+</option>
+<option>Abdominal infection/Peritonitis
+
+</option>
+<option>Bones and Joints Sepsis
+
+
+</option>
+    </select>
+  </div>
+</div>
+</div>
+
+<br>
+
+
+
+<!-- Text input-->
+City&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+ <select id="country" size="1" onchange="makemenu(this.value)" name="city">
+<option  value="" disabled selected>select your city</option>
+  <option>Agra</option>
+  <option> Ghaziabad</option>
+  <option> Kanpur</option>
+  <option>Mainpuri</option>
+  <option> Meerut</option>
+  <option> Lucknow</option>
+  <option> Haridwar</option>
+  <option> Dehradun</option>
+  <option> Kolkata</option>
+  <option> Kharagpur</option>
+  <option> Chennai</option>
+  <option> Kanchipuram</option>
+  <option> Jaipur</option>
+  <option>Jaisalmer</option>
+  <option>Mumbai</option>
+  <option>Nagpur</option>
+  <option>Pune</option>
+  <option>Bhopal</option>
+  <option>Guna</option>
+  <option>Delhi</option>
+  </select>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;State&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  <select id="go" size="1"  name="state">
+<option value="" disabled selected>select state</option>
+<option></option>
+</select>
+<br>
+<br>
+ 
+
+<!-- Text input-->
+
+<div>
+<div>
+<div>
+  Age&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input name="age" placeholder="Age"id="mono"   type="Number" min="0" max="100">
+    </div>
+</div>
+</div>
+<br>
+<br>
+
+<!-- radio checks -->
+ <div >
+  Gender :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" name="gender" value="male"id="no"onchange=
+  "disabledcheckbox()">Male
+  &nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" name="gender" value="female"id="no"onchange=
+  "enablecheckbox()">Female
+  <!-- &nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" name="gender" value="others"id="no"onchange=
+  "disabledcheckbox()">Others -->
+  <br>
+  <br>
+  
+  <div >
+<div>
+<div>
+    Pregnancy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <select name="pregnancy"id="mio"
+     disabled="disabled" >
+      <option value=" none" ></option>
+      <option>Not pregnant</option>
+      <option>pregnant</option>
+    </select>
+  </div>
+</div>
+</div>
+
+
+                    <br>
+                    <br>
+
+<!-- Text area -->
+<div >
+<div>
+<div>
+    Immune States&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<select name="istate">
+      <option value=" none" ></option>
+      <option>Weak</option>
+      <option>Good</option>
+    </select>
+  </div>
+</div>
+</div>
+<br>
+<!-- <div>
+<div>
+<div>
+    Outcome Of The Treatment&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <select name="result" id="mo">
+        <option value ="none"></option>
+      <option>Cured</option>
+      <option>Died</option>
+      <option>Referred</option>
+    </select>
+  </div>
+</div>
+</div> -->
+<br>
+
+
+<!-- Success message -->
+
+<br>
+<div class="alert alert-success" role="alert" id="success_message">Thanks <i class="glyphicon glyphicon-thumbs-up"></i> for your response.</div>
+
+
+<!-- Button -->
+<div class="form-group"id="mon">
+  <label class="col-md-4 control-label"></label>
+  <div class="col-md-4">
+     <button type="submit" value="Record" class="btn btn-warning" name="submit" >Submit <span class="glyphicon glyphicon-send"></span></button>
+  </div>
+</div>
+</form>
+</div>
+    </div><!-- /.container -->
+  </body>
+  </html>

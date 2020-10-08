@@ -1,0 +1,237 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<!-- new links for navbar -->
+	<meta charset="UTF-8">
+    <title> Search page</title>
+    <meta name="description" content="Oishii - Fine Japanese Cuisine ">
+    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% load static %}
+<!--   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/layout.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<!-- end links for navbar-->
+    
+
+<!--  Added new link -->
+<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://kit.fontawesome.com/yourcode.js"></script>
+
+  
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css?family=Averia+Serif+Libre|Bubblegum+Sans|Caveat+Brush|Chewy|Lobster+Two');
+    
+	
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+	<style >
+
+body {
+    width: 100%;
+    height: 100%;
+    /*background: url('{% static "pic/img11.jpg" %}');*/
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+* ===== NAVIGATION ======*/
+.navbar {
+    border: 1px solid black;
+    z-index: 9999;
+    letter-spacing: 4px;
+}
+.logo {
+    display: block;
+    height: auto;
+    width: 52px;
+    padding-top: 5px;
+    margin-right:15px;
+}
+
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px; /* firefox bug fix */
+  width: auto;
+}
+.navbar .nav > li > a {
+  line-height: 50px;
+}
+
+.navbar-header h1 {
+    letter-spacing: 1px;
+    color: black !important;
+    font-family: 'Lobster Two', cursive;
+}
+
+.navbar li a, .navbar {
+    color: black !important;
+    font-size: 17px;
+    transition: all 0.6s 0s;
+}
+
+.navbar-toggle {
+    background-color:black;
+    border: 0;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: blue !important;
+}
+	.form-control{
+		margin-top:150px;
+		/*margin-left: 250px;*/
+	}	
+	#btn{
+		margin-top:150px;
+		margin-left: 150px;
+	}
+   .form-group{
+   margin-top:100px;
+   }
+	</style>
+</head>
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse"
+                    data-target="#myNavbar">
+                <span class="glyphicon glyphicon-menu-hamburger"></span>
+            </button>
+           
+          
+         <div class="navbar-left logo"> 
+       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+   viewBox="0 0 291 385.3" style="enable-background:new 0 0 291 385.3;" xml:space="preserve">
+<style type="text/css">
+  .st0{fill:#000;}
+</style>
+<polygon class="st0" points="82.1,12 7.4,138.7 38.7,237.3 "/>
+<polygon class="st0" points="92.7,5.3 199.4,8.7 223.4,82.7 "/>
+<polygon class="st0" points="89.4,8.7 223.4,86.7 42.1,237.3 "/>
+<polygon class="st0" points="206.1,15.3 262.7,66 228.1,82.7 "/>
+<polygon class="st0" points="262.7,70 228.1,86 266.4,175.3 "/>
+<polygon class="st0" points="228.1,92.7 262.7,179.3 173.4,328 "/>
+<polygon class="st0" points="223.4,92.7 44.7,240 167.7,336 "/>
+<polygon class="st0" points="252.1,210.3 184.4,380.3 170.7,339.7 "/>
+<polygon class="st0" points="60.1,260.3 167.4,341 180.4,380.3 "/>
+</svg>
+          </div>
+    <h1 class="brand brand-name navbar-left"> 
+      <div class="navbar-left">Pharma Future
+      </h1>
+        </div>
+        <div class="collapse navbar-collapse navbar-right" id="myNavbar">
+            <ul class="nav navbar-nav">
+                <li><a href="Home" active="">Main</a></li>
+          
+          <li><a href="pastrecord">Past Record</a></li>
+           
+            </ul>
+        </div>
+    </div>
+</div>
+</nav>
+<div class="container">
+	<form method="POST" action="">
+		{% csrf_token %}
+		<div class="form-group">
+			<div class="col-lg-5">
+				<input type="phonenumber" name="srh" class="form-control" placeholder="Enter The Patient Id/Antibiotic">
+			</div>
+			<label class="col-lg-2">
+				<button type="submit" id="btn" class="btn btn-danger">Search</button>
+			</label>
+		</div>
+	</form>
+	<br>
+	<br>
+	<br>
+</div>
+<div style="color: blue;" class="container">
+	<div class="form-group">
+    {% if messages %}
+	<ul class="messages">
+		{% for k in messages %}
+		<li style="color:red; margin-left:center; font-size:18px; list-style-type: none;">
+			<div class="alert alert-success">
+		{{k}}</div></li>
+		{% endfor %}
+	</ul>
+	 {% endif %}
+</div>
+</div>
+<br>		
+	
+
+
+</div>
+
+<div style="color: blue;">
+	  {% if sr %}
+
+      {% for k in sr %}
+      <table width="300px" style="margin-left:100px;">
+          <tr style="height: 60px; color: black;">
+              <th>Patient_Id&nbsp;&nbsp; </th>
+              <th>FirstAntibiotic&nbsp;&nbsp; </th>
+              <th>Resistance&nbsp;&nbsp;  </th>
+              <th>SecondAntibiotic&nbsp;&nbsp;  </th>
+              <th>Resistance&nbsp;&nbsp;  </th>
+              <th>ThirdAntibiotic&nbsp;&nbsp;  </th>
+              <th>Resistance&nbsp;&nbsp;  </th>
+              <th>FourthAntibiotic&nbsp;&nbsp;  </th>
+              <th>Resistance&nbsp;&nbsp;  </th>
+              <th>Infection&nbsp;&nbsp;  </th>
+              <th>Age&nbsp;&nbsp;  </th>
+              <th>City&nbsp;&nbsp;  </th>
+              <th>State&nbsp;&nbsp;  </th>
+              <th>immune status&nbsp;&nbsp;  </th>
+          </tr>
+          <tr>
+              <td>{{k.PatientId}}</td>
+
+
+
+              <td>{{k.FirstAntibiotic}}&nbsp;  </td>
+              <td>{{k.ar_1}}&nbsp;</td>
+              <td>{{k.SecondAntibiotic}}&nbsp;</td>
+              <td>{{k.ar_2}}&nbsp;</td>
+              <td>{{k.ThirdAntibiotic}}&nbsp;</td>
+              <td>{{k.ar_3}}&nbsp;</td>
+              <td>{{k.FourthAntibiotic}}&nbsp;</td>
+              <td>{{k.ar_4}}&nbsp;</td>
+              <td>{{k.in1}}&nbsp;</td>
+              <td>{{k.age}}&nbsp;</td>
+              <td>{{k.city}}&nbsp;</td>
+              <td>{{k.state}}&nbsp;</td>
+              <td>{{k.immunestatus}}&nbsp;</td>
+
+
+          </tr>
+</table>
+<hr>
+       {% endfor %}
+       {% endif %}	
+</div><br>
+
+
+
+</div>
+
+
+
+</body>
+</html>
